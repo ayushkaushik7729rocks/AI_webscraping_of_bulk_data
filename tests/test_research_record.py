@@ -37,3 +37,22 @@ def test_build_research_paper_record():
     assert record["content"]["github_stars"] is None
 
     assert record["collectedAt"] is not None
+
+def test_research_paper_record_preserves_github_data():
+
+    paper = {
+        "title": "Test Paper",
+        "authors": ["Author One"],
+        "paper_url": "https://arxiv.org/abs/1234.5678",
+        "published_date": "2026-01-01T00:00:00Z",
+        "github_url": "https://github.com/example/test-repo",
+        "github_stars": 42,
+    }
+
+    record = build_research_paper_record(paper)
+
+    assert record["content"]["github_url"] == (
+        "https://github.com/example/test-repo"
+    )
+
+    assert record["content"]["github_stars"] == 42

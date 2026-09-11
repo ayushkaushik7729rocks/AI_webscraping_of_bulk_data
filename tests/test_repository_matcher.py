@@ -139,3 +139,28 @@ def test_select_best_repository_returns_none_when_all_are_weak():
     )
 
     assert result is None
+
+def test_explicit_paper_source_is_accepted():
+    matcher = RepositoryMatcher()
+
+    paper = {
+        "title": "Retrieval is Cheap, Show Me the Code",
+        "paper_url": "http://arxiv.org/abs/2605.12975v1",
+    }
+
+    repository = {
+        "name": "PyRAG",
+        "description": "Code for retrieval augmented generation",
+        "html_url": "https://github.com/GasolSun36/PyRAG",
+        "stargazers_count": 26,
+        "source": "explicit_paper_source",
+    }
+
+    result = matcher.score_repository(
+        paper,
+        repository
+    )
+
+    assert result["accepted"] is True
+    assert result["score"] == 100
+    assert "explicit_paper_source" in result["evidence"]

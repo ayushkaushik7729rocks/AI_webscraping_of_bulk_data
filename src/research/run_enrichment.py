@@ -5,7 +5,6 @@ from src.crawler.base import AsyncCrawler
 from src.extraction.record import build_research_paper_record
 from src.github.client import GitHubClient
 from src.research.arxiv import ArxivClient
-from src.research.paperswithcode import PapersWithCodeClient
 from src.research.repository_matcher import RepositoryMatcher
 
 
@@ -15,31 +14,16 @@ async def enrich_paper(crawler, paper):
     and its current GitHub star count.
     """
 
-    pwc_client = PapersWithCodeClient(crawler)
+    arxiv_client = ArxivClient(crawler)
     github_client = GitHubClient(crawler)
     matcher = RepositoryMatcher()
 
     # ---------------------------------------------------------
-    # 1. Extract the arXiv ID
+    # 1. Discover GitHub repositories from the arXiv paper page
     # ---------------------------------------------------------
-    arxiv_id = matcher.extract_arxiv_id(
+    candidate_urls = await arxiv_client.get_github_urls(
         paper["paper_url"]
     )
-
-    if not arxiv_id:
-        raise ValueError(
-            f"Could not extract arXiv ID from "
-            f"{paper['paper_url']}"
-        )
-
-    # ---------------------------------------------------------
-    # 2. Discover candidate repositories
-    # ---------------------------------------------------------
-    pwc_result = await pwc_client.get_paper(
-        arxiv_id
-    )
-
-    candidate_urls = pwc_result["github_urls"]
 
     print("\n=== GITHUB CANDIDATES ===")
 
@@ -50,11 +34,11 @@ async def enrich_paper(crawler, paper):
         f"\nTotal candidates: {len(candidate_urls)}"
     )
 
+    # ---------------------------------------------------------
+    # 2. Get metadata for each candidate repository
+    # ---------------------------------------------------------
     repositories = []
 
-    # ---------------------------------------------------------
-    # 3. Get metadata for each candidate repository
-    # ---------------------------------------------------------
     for github_url in candidate_urls:
 
         try:
@@ -63,7 +47,7 @@ async def enrich_paper(crawler, paper):
                     github_url
                 )
             )
-
+            repository["source"] = "explicit_paper_source"
             repositories.append(repository)
 
         except Exception as exc:
@@ -73,7 +57,7 @@ async def enrich_paper(crawler, paper):
             )
 
     # ---------------------------------------------------------
-    # 4. Deterministically select best repository
+    # 3. Deterministically select the best repository
     # ---------------------------------------------------------
     best = matcher.select_best_repository(
         paper,
@@ -89,10 +73,9 @@ async def enrich_paper(crawler, paper):
 
         repository = best["repository"]
 
-        github_url = repository.get(
-            "html_url"
-        ) or repository.get(
-            "url"
+        github_url = (
+            repository.get("html_url")
+            or repository.get("url")
         )
 
         github_stars = repository.get(
@@ -106,7 +89,7 @@ async def enrich_paper(crawler, paper):
         match_evidence = best["evidence"]
 
     # ---------------------------------------------------------
-    # 5. Build canonical research-paper record
+    # 4. Build canonical research-paper record
     # ---------------------------------------------------------
     record = build_research_paper_record(
         {
@@ -131,12 +114,13 @@ async def main():
     crawler = AsyncCrawler(
         max_concurrency=5
     )
+
     await crawler.start()
 
     try:
 
         # -----------------------------------------------------
-        # 6. Get one REAL paper from arXiv
+        # 5. Get one REAL paper from arXiv
         # -----------------------------------------------------
         arxiv_client = ArxivClient(crawler)
 
@@ -154,15 +138,17 @@ async def main():
         paper = papers[0]
 
         print("\n=== SOURCE PAPER ===")
+
         print(
             f"Title: {paper['title']}"
         )
+
         print(
             f"URL: {paper['paper_url']}"
         )
 
         # -----------------------------------------------------
-        # 7. Run enrichment
+        # 6. Run enrichment
         # -----------------------------------------------------
         record = await enrich_paper(
             crawler,

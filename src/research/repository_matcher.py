@@ -5,20 +5,17 @@ from rapidfuzz.fuzz import ratio
 
 class RepositoryMatcher:
 
-    def __init__(
-        self,
-        minimum_score=70
-    ):
+    def __init__(self,minimum_score=70):
         self.minimum_score = minimum_score
 
-    def score_repository(
-        self,
-        paper,
-        repository
-    ):
+    def score_repository(self,paper,repository):
 
         score = 0
         evidence = []
+
+        if repository.get("source") == "explicit_paper_source": 
+            return { "score": 100, "evidence": [ "explicit_paper_source" ], "accepted": True }
+
 
         paper_title = self.normalize_text(
             paper.get("title", "")
@@ -45,9 +42,9 @@ class RepositoryMatcher:
             str(repository.get("name", ""))
             + " "
             + str(repository.get("description", "") or "")
-        )
+        ).lower()
 
-        if arxiv_id and arxiv_id in repository_text:
+        if arxiv_id and arxiv_id.lower() in repository_text:
 
             score += 50
 
@@ -178,9 +175,7 @@ class RepositoryMatcher:
         ]
 
     @staticmethod
-    def extract_arxiv_id(
-        paper_url
-    ):
+    def extract_arxiv_id(paper_url):
 
         match = re.search(
             r"arxiv\.org/(?:abs|pdf)/"
@@ -193,11 +188,7 @@ class RepositoryMatcher:
 
         return match.group(1)
 
-    def select_best_repository(
-        self,
-        paper,
-        repositories
-    ):
+    def select_best_repository(self,paper,repositories):
 
         candidates = []
 
@@ -229,3 +220,4 @@ class RepositoryMatcher:
             return None
 
         return best
+

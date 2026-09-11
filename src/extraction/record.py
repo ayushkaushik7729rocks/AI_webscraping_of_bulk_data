@@ -19,26 +19,20 @@ def build_source_record(
 
 
 def build_research_paper_record(paper):
-
     return {
         "schemaVersion": "1.0",
         "recordType": "research_paper",
-
         "source": {
             "name": "arXiv",
             "url": paper["paper_url"],
         },
-
         "content": {
             "title": paper["title"],
             "authors": paper["authors"],
             "paper_url": paper["paper_url"],
-            "github_url": None,
-            "github_stars": None,
+            "github_url": paper.get("github_url"),
+            "github_stars": paper.get("github_stars"),
             "published_date": paper["published_date"],
         },
-
-        "collectedAt": datetime.now(
-            timezone.utc
-        ).isoformat(),
+        "collectedAt": datetime.now(timezone.utc).isoformat(),
     }

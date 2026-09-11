@@ -1,4 +1,5 @@
 from bs4 import BeautifulSoup
+import re
 
 
 class PapersWithCodeClient:
@@ -105,26 +106,50 @@ class PapersWithCodeClient:
 
     @staticmethod
     def extract_github_urls(html):
+        soup = BeautifulSoup(html, "lxml")
 
-        soup = BeautifulSoup(html,"lxml")
+        github_urls = set()
 
-        for link in soup.find_all("a",href=True):
-
+        for link in soup.find_all("a", href=True):
             href = link["href"].strip()
 
-            if "github.com/" not in href:
+            if "github.com/" not in href.lower():
                 continue
 
-            print("\n--- GITHUB LINK ---")
-            print("URL:", href)
-            print("Link text:", link.get_text(" ", strip=True))
+            if href.startswith("//"):
+                href = "https:" + href
 
-            parent = link.parent
+            elif href.startswith("/"):
+                href = "https://paperswithcode.com" + href
 
-            if parent:
-                print(
-                    "Parent text:",
-                    parent.get_text(" ", strip=True)[:500]
-                )
+        # Remove query parameters and fragments
+            href = href.split("?")[0]
+            href = href.split("#")[0]
 
-        return []
+        # Remove trailing slash
+            href = href.rstrip("/")
+
+            match = re.match(
+                r"^https?://github\.com/"
+                r"([^/]+)/([^/]+)$",
+                href,
+                re.IGNORECASE
+            )
+
+            if not match:
+                continue
+
+            owner = match.group(1)
+            repository = match.group(2)
+
+        # Ignore GitHub organization/user pages
+            if not owner or not repository:
+                continue
+
+            github_url = (
+                f"https://github.com/{owner}/{repository}"
+            )
+
+            github_urls.add(github_url)
+
+        return sorted(github_urls)

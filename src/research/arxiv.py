@@ -1,6 +1,7 @@
 import asyncio
 import urllib.parse
 import xml.etree.ElementTree as ET
+import re
 
 from src.crawler.base import AsyncCrawler
 
@@ -42,6 +43,29 @@ class ArxivClient:
         return self.parse_response(
             result["html"]
         )
+
+    async def get_github_urls(self, paper_url: str):
+
+        result = await self.crawler.fetch(paper_url)
+
+        if result["status"] != 200:
+            return []
+
+        pattern = r"https?://github\.com/[A-Za-z0-9_.-]+/[A-Za-z0-9_.-]+"
+
+        matches = re.findall(
+            pattern,
+            result["html"]
+        )
+
+        cleaned_urls = set()
+
+        for url in matches:
+            url = url.rstrip(".,;:!?)]}")
+
+            cleaned_urls.add(url)
+
+        return sorted(cleaned_urls)
 
     def parse_response(self, xml_text: str):
 
