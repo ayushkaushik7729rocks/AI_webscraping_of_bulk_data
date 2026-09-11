@@ -2,48 +2,79 @@ import asyncio
 import json
 
 from src.crawler.base import AsyncCrawler
+from src.extraction.record import build_research_paper_record
 from src.github.client import GitHubClient
 from src.research.arxiv import ArxivClient
 from src.research.paperswithcode import PapersWithCodeClient
 from src.research.repository_matcher import RepositoryMatcher
-from src.extraction.record import build_research_paper_record
 
 
-async def enrich_paper(
-    crawler,
-    paper
-):
+async def enrich_paper(crawler, paper):
+    """
+    Enrich one arXiv paper with a verified GitHub repository
+    and its current GitHub star count.
+    """
 
-    pwc = PapersWithCodeClient(crawler)
-    github = GitHubClient(crawler)
+    pwc_client = PapersWithCodeClient(crawler)
+    github_client = GitHubClient(crawler)
     matcher = RepositoryMatcher()
 
+    # ---------------------------------------------------------
+    # 1. Extract the arXiv ID
+    # ---------------------------------------------------------
     arxiv_id = matcher.extract_arxiv_id(
         paper["paper_url"]
     )
 
-    pwc_result = await pwc.get_paper(
+    if not arxiv_id:
+        raise ValueError(
+            f"Could not extract arXiv ID from "
+            f"{paper['paper_url']}"
+        )
+
+    # ---------------------------------------------------------
+    # 2. Discover candidate repositories
+    # ---------------------------------------------------------
+    pwc_result = await pwc_client.get_paper(
         arxiv_id
+    )
+
+    candidate_urls = pwc_result["github_urls"]
+
+    print("\n=== GITHUB CANDIDATES ===")
+
+    for url in candidate_urls:
+        print(url)
+
+    print(
+        f"\nTotal candidates: {len(candidate_urls)}"
     )
 
     repositories = []
 
-    for github_url in pwc_result["github_urls"]:
+    # ---------------------------------------------------------
+    # 3. Get metadata for each candidate repository
+    # ---------------------------------------------------------
+    for github_url in candidate_urls:
 
         try:
-
-            repository = await github.get_repository_metadata(
-                github_url
+            repository = (
+                await github_client.get_repository_metadata(
+                    github_url
+                )
             )
 
-            repositories.append(
-                repository
+            repositories.append(repository)
+
+        except Exception as exc:
+            print(
+                f"Skipping repository "
+                f"{github_url}: {exc}"
             )
 
-        except Exception:
-
-            continue
-
+    # ---------------------------------------------------------
+    # 4. Deterministically select best repository
+    # ---------------------------------------------------------
     best = matcher.select_best_repository(
         paper,
         repositories
@@ -51,18 +82,32 @@ async def enrich_paper(
 
     github_url = None
     github_stars = None
-    confidence = 0.0
-    evidence = None
+    match_confidence = 0.0
+    match_evidence = []
 
-    if best:
+    if best is not None:
 
         repository = best["repository"]
 
-        github_url = repository["html_url"]
-        github_stars = repository["stargazers_count"]
-        confidence = best["score"] / 100
-        evidence = best["evidence"]
+        github_url = repository.get(
+            "html_url"
+        ) or repository.get(
+            "url"
+        )
 
+        github_stars = repository.get(
+            "stargazers_count"
+        )
+
+        match_confidence = (
+            best["score"] / 100.0
+        )
+
+        match_evidence = best["evidence"]
+
+    # ---------------------------------------------------------
+    # 5. Build canonical research-paper record
+    # ---------------------------------------------------------
     record = build_research_paper_record(
         {
             **paper,
@@ -71,9 +116,10 @@ async def enrich_paper(
         }
     )
 
+    # Internal metadata useful for auditing.
     record["content"]["repository_match"] = {
-        "confidence": confidence,
-        "evidence": evidence,
+        "confidence": match_confidence,
+        "evidence": match_evidence,
         "candidate_count": len(repositories),
     }
 
@@ -85,45 +131,55 @@ async def main():
     crawler = AsyncCrawler(
         max_concurrency=5
     )
-
     await crawler.start()
 
     try:
 
-        arxiv = ArxivClient(crawler)
+        # -----------------------------------------------------
+        # 6. Get one REAL paper from arXiv
+        # -----------------------------------------------------
+        arxiv_client = ArxivClient(crawler)
 
-        papers = await arxiv.search(
+        papers = await arxiv_client.search(
             query="id:2605.12975",
             start=0,
             max_results=1,
         )
 
         if not papers:
-            print("Paper not found.")
-            return
+            raise RuntimeError(
+                "Could not retrieve test paper."
+            )
 
         paper = papers[0]
 
         print("\n=== SOURCE PAPER ===")
-        print(paper["title"])
-        print(paper["paper_url"])
+        print(
+            f"Title: {paper['title']}"
+        )
+        print(
+            f"URL: {paper['paper_url']}"
+        )
 
-        enriched = await enrich_paper(
+        # -----------------------------------------------------
+        # 7. Run enrichment
+        # -----------------------------------------------------
+        record = await enrich_paper(
             crawler,
             paper
         )
 
         print("\n=== ENRICHED RECORD ===")
+
         print(
             json.dumps(
-                enriched,
+                record,
                 indent=2,
                 ensure_ascii=False,
             )
         )
 
     finally:
-
         await crawler.close()
 
 

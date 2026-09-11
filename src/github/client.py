@@ -1,6 +1,8 @@
 import json
 import re
-
+import os
+from dotenv import load_dotenv
+load_dotenv()
 
 class GitHubClient:
 
@@ -8,6 +10,7 @@ class GitHubClient:
 
     def __init__(self, crawler):
         self.crawler = crawler
+        self.token = os.getenv("GITHUB_TOKEN")
 
     async def get_repository(
         self,
@@ -20,12 +23,17 @@ class GitHubClient:
             f"{owner}/{repo}"
         )
 
+        headers={
+            "Accept": "application/vnd.github+json",
+            "X-GitHub-Api-Version": "2026-03-10",
+        }
+
+        if self.token:
+            headers["Authorization"] = f"Bearer {self.token}"
+
         result = await self.crawler.fetch(
             url,
-            headers={
-                "Accept": "application/vnd.github+json",
-                "X-GitHub-Api-Version": "2026-03-10",
-            }
+            headers=headers
         )
 
         if result["status"] != 200:
