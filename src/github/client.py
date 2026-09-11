@@ -51,6 +51,22 @@ class GitHubClient:
 
         return repository["stargazers_count"]
 
+    async def get_repository_metadata(self, github_url):
+        owner, repo = self.parse_repository_url(github_url)
+
+        repository = await self.get_repository(owner, repo)
+
+        return {
+            "owner": owner,
+            "repo": repo,
+            "url": github_url,
+            "name": repository.get("name"),
+            "full_name": repository.get("full_name"),
+            "description": repository.get("description"),
+            "stargazers_count": repository.get("stargazers_count"),
+            "html_url": repository.get("html_url"),
+        }
+
     @staticmethod
     def parse_repository_url(
         github_url
@@ -80,18 +96,3 @@ class GitHubClient:
 
         return owner, repo
 
-    async def get_repository_metadata(self, github_url):
-        owner, repo = self.parse_repository_url(github_url)
-
-        repository = await self.get_repository(owner, repo)
-
-        return {
-            "owner": owner,
-            "repo": repo,
-            "url": github_url,
-            "name": repository.get("name"),
-            "full_name": repository.get("full_name"),
-            "description": repository.get("description"),
-            "stargazers_count": repository.get("stargazers_count"),
-            "html_url": repository.get("html_url"),
-        }
