@@ -1,0 +1,2583 @@
+{
+  "last_completed_page": 79,
+  "products": [
+    {
+      "name": "ZenCall.ai",
+      "rating": 5.0,
+      "source_url": "https://www.futurepedia.io/tool/zencall-ai",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents"
+    },
+    {
+      "name": "n8n",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/n8n",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents"
+    },
+    {
+      "name": "AutoGPT",
+      "rating": 5.0,
+      "source_url": "https://www.futurepedia.io/tool/auto-gpt",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents"
+    },
+    {
+      "name": "AgentVerse",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/agentverse",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents"
+    },
+    {
+      "name": "ChatGPT",
+      "rating": 4.333333333333333,
+      "source_url": "https://www.futurepedia.io/tool/chatgpt",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents"
+    },
+    {
+      "name": "Windsurf",
+      "rating": 4.636363636363637,
+      "source_url": "https://www.futurepedia.io/tool/windsurf",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents"
+    },
+    {
+      "name": "Softr",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/softr",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents"
+    },
+    {
+      "name": "Chatbase",
+      "rating": 5.0,
+      "source_url": "https://www.futurepedia.io/tool/chatbase",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents"
+    },
+    {
+      "name": "AgentGPT",
+      "rating": 4.0,
+      "source_url": "https://www.futurepedia.io/tool/agentgpt",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents"
+    },
+    {
+      "name": "Stratup.ai",
+      "rating": 5.0,
+      "source_url": "https://www.futurepedia.io/tool/stratupai",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents"
+    },
+    {
+      "name": "Baby AGI",
+      "rating": 4.0,
+      "source_url": "https://www.futurepedia.io/tool/baby-agi",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents"
+    },
+    {
+      "name": "Meshy",
+      "rating": 5.0,
+      "source_url": "https://www.futurepedia.io/tool/meshy",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents"
+    },
+    {
+      "name": "CustomGPT.ai",
+      "rating": 5.0,
+      "source_url": "https://www.futurepedia.io/tool/customgpt",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=2"
+    },
+    {
+      "name": "SuperAGI",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/superagi",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=2"
+    },
+    {
+      "name": "Inworld",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/inworld",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=2"
+    },
+    {
+      "name": "Coinfeeds",
+      "rating": 5.0,
+      "source_url": "https://www.futurepedia.io/tool/coinfeeds",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=2"
+    },
+    {
+      "name": "Circleback.ai",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/circlebackai",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=2"
+    },
+    {
+      "name": "Lenix",
+      "rating": 5.0,
+      "source_url": "https://www.futurepedia.io/tool/lenix",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=2"
+    },
+    {
+      "name": "Role Model AI",
+      "rating": 5.0,
+      "source_url": "https://www.futurepedia.io/tool/rolemodel-ai",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=2"
+    },
+    {
+      "name": "Cheat Layer",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/cheat-layer",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=2"
+    },
+    {
+      "name": "GPTConsole",
+      "rating": 3.0,
+      "source_url": "https://www.futurepedia.io/tool/gptconsole",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=2"
+    },
+    {
+      "name": "Cognosys",
+      "rating": 2.0,
+      "source_url": "https://www.futurepedia.io/tool/cognosys",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=2"
+    },
+    {
+      "name": "Clevis",
+      "rating": 5.0,
+      "source_url": "https://www.futurepedia.io/tool/clevis",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=2"
+    },
+    {
+      "name": "MindStudio",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/mindstudio",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=2"
+    },
+    {
+      "name": "Qodo",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/qodo",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=3"
+    },
+    {
+      "name": "Stammer",
+      "rating": 4.5,
+      "source_url": "https://www.futurepedia.io/tool/stammer",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=3"
+    },
+    {
+      "name": "Marketing Strategy Generator",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/marketing-strategy-generator",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=3"
+    },
+    {
+      "name": "Setter AI",
+      "rating": 5.0,
+      "source_url": "https://www.futurepedia.io/tool/setter-ai",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=3"
+    },
+    {
+      "name": "MailMaestro",
+      "rating": 5.0,
+      "source_url": "https://www.futurepedia.io/tool/mailmaestro",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=3"
+    },
+    {
+      "name": "TheLoops",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/theloops",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=3"
+    },
+    {
+      "name": "Insight7",
+      "rating": 5.0,
+      "source_url": "https://www.futurepedia.io/tool/insight7",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=3"
+    },
+    {
+      "name": "Rapport",
+      "rating": 5.0,
+      "source_url": "https://www.futurepedia.io/tool/rapport",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=3"
+    },
+    {
+      "name": "Convai",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/convai",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=3"
+    },
+    {
+      "name": "Lindy AI",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/lindyai",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=3"
+    },
+    {
+      "name": "AgentX",
+      "rating": 5.0,
+      "source_url": "https://www.futurepedia.io/tool/agentx",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=3"
+    },
+    {
+      "name": "Adept",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/adept",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=3"
+    },
+    {
+      "name": "iPlan.ai",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/iplan-ai",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=4"
+    },
+    {
+      "name": "Tulsk.io",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/tulskio",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=4"
+    },
+    {
+      "name": "Momen",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/momen",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=4"
+    },
+    {
+      "name": "HeyMilo AI",
+      "rating": 5.0,
+      "source_url": "https://www.futurepedia.io/tool/heymilo",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=4"
+    },
+    {
+      "name": "Sonara",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/sonara",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=4"
+    },
+    {
+      "name": "Relevance AI",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/relevance-ai",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=4"
+    },
+    {
+      "name": "Simple Phones",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/simple-phones",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=4"
+    },
+    {
+      "name": "Dart",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/dart",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=4"
+    },
+    {
+      "name": "Nabla",
+      "rating": 1.0,
+      "source_url": "https://www.futurepedia.io/tool/nabla",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=4"
+    },
+    {
+      "name": "Kintext",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/kintext",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=4"
+    },
+    {
+      "name": "Wellpin",
+      "rating": 5.0,
+      "source_url": "https://www.futurepedia.io/tool/wellpin",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=4"
+    },
+    {
+      "name": "Ask Layla",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/ask-layla",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=4"
+    },
+    {
+      "name": "Beloga",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/beloga",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=5"
+    },
+    {
+      "name": "Mindsera",
+      "rating": 5.0,
+      "source_url": "https://www.futurepedia.io/tool/mindsera",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=5"
+    },
+    {
+      "name": "Cassidy",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/cassidy",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=5"
+    },
+    {
+      "name": "B2B Rocket",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/b2b-rocket",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=5"
+    },
+    {
+      "name": "Momentum",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/momentum",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=5"
+    },
+    {
+      "name": "enso",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/enso",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=5"
+    },
+    {
+      "name": "Lutra AI",
+      "rating": 5.0,
+      "source_url": "https://www.futurepedia.io/tool/lutra-ai",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=5"
+    },
+    {
+      "name": "Adrenaline",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/adrenaline",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=5"
+    },
+    {
+      "name": "Aidelly",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/aidelly",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=5"
+    },
+    {
+      "name": "Imbue",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/imbue",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=5"
+    },
+    {
+      "name": "LangChain",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/langchain",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=5"
+    },
+    {
+      "name": "Manus",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/manus",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=5"
+    },
+    {
+      "name": "LlamaIndex",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/llamaindex",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=6"
+    },
+    {
+      "name": "Replicate",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/replicate",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=6"
+    },
+    {
+      "name": "Mixus",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/mixus",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=6"
+    },
+    {
+      "name": "Comet",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/comet",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=6"
+    },
+    {
+      "name": "JustCopy.ai",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/justcopy-ai",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=6"
+    },
+    {
+      "name": "TradeOS AI",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/tradeos-ai",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=6"
+    },
+    {
+      "name": "CometAPI",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/cometapi",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=6"
+    },
+    {
+      "name": "VibeScan",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/vibescan",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=6"
+    },
+    {
+      "name": "Brightbid",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/brightbid",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=6"
+    },
+    {
+      "name": "Vic.ai",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/vic-ai",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=6"
+    },
+    {
+      "name": "MetaGPT",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/metagpt",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=6"
+    },
+    {
+      "name": "Lyzr Agent Studio",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/lyzr",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=6"
+    },
+    {
+      "name": "EnCharge AI",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/encharge-ai",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=7"
+    },
+    {
+      "name": "Knostic",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/knostic",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=7"
+    },
+    {
+      "name": "JanitorAI",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/janitor-ai",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=7"
+    },
+    {
+      "name": "Shield AI",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/shield-ai",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=7"
+    },
+    {
+      "name": "Dcipher Insight Booster",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/dcipher-insight-booster",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=7"
+    },
+    {
+      "name": "vocode",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/vocode",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=7"
+    },
+    {
+      "name": "EverMemOS",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/evermemos",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=7"
+    },
+    {
+      "name": "Refraction AI",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/refraction-ai",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=7"
+    },
+    {
+      "name": "Gridspace",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/gridspace",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=7"
+    },
+    {
+      "name": "Langtail",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/langtail",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=7"
+    },
+    {
+      "name": "Prophet Security",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/prophet-security",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=7"
+    },
+    {
+      "name": "micro1",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/micro1",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=7"
+    },
+    {
+      "name": "FlexAI",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/flexai",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=8"
+    },
+    {
+      "name": "OpenClaw",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/openclaw",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=8"
+    },
+    {
+      "name": "Boomi",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/boomi",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=8"
+    },
+    {
+      "name": "Gradient Labs",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/gradient-labs",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=8"
+    },
+    {
+      "name": "QuickCode ai",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/quickcode-ai",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=8"
+    },
+    {
+      "name": "KaneAI",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/kaneai",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=8"
+    },
+    {
+      "name": "Black Swan",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/black-swan",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=8"
+    },
+    {
+      "name": "Aporia",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/aporia",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=8"
+    },
+    {
+      "name": "Ensis",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/ensis",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=8"
+    },
+    {
+      "name": "Wellows",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/wellows",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=8"
+    },
+    {
+      "name": "Werd",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/werd",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=8"
+    },
+    {
+      "name": "Ada",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/ada",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=8"
+    },
+    {
+      "name": "Token Security",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/token-security",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=9"
+    },
+    {
+      "name": "Cleric",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/cleric",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=9"
+    },
+    {
+      "name": "Sapien",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/sapien",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=9"
+    },
+    {
+      "name": "AI First",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/ai-first",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=9"
+    },
+    {
+      "name": "Kusho",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/kusho",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=9"
+    },
+    {
+      "name": "Automaited",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/automaited",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=9"
+    },
+    {
+      "name": "Azara",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/azara",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=9"
+    },
+    {
+      "name": "Minion AI",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/minion-ai",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=9"
+    },
+    {
+      "name": "Dropzone",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/dropzone",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=9"
+    },
+    {
+      "name": "Mindverse",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/mindverse",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=9"
+    },
+    {
+      "name": "Firsthand",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/firsthand",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=9"
+    },
+    {
+      "name": "Hebbia",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/hebbia",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=9"
+    },
+    {
+      "name": "Neuron7.ai",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/neuron7-ai",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=10"
+    },
+    {
+      "name": "Picogrid",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/picogrid",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=10"
+    },
+    {
+      "name": "Voctiv",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/voctiv",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=10"
+    },
+    {
+      "name": "Cyclops Security",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/cyclops-security",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=10"
+    },
+    {
+      "name": "APEX",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/apex",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=10"
+    },
+    {
+      "name": "Thoughtful AI",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/thoughtful-ai",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=10"
+    },
+    {
+      "name": "Terminus Group",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/terminus-group",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=10"
+    },
+    {
+      "name": "CitrusX",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/citrusx",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=10"
+    },
+    {
+      "name": "Intercom",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/intercom",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=10"
+    },
+    {
+      "name": "Altera",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/altera",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=10"
+    },
+    {
+      "name": "Miro",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/miro",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=10"
+    },
+    {
+      "name": "CoSupport AI",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/cosupport-ai",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=10"
+    },
+    {
+      "name": "MCP Showcase",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/mcp-showcase",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=11"
+    },
+    {
+      "name": "AviaryAI",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/aviaryai",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=11"
+    },
+    {
+      "name": "Atoms",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/atoms",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=11"
+    },
+    {
+      "name": "Banana",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/banana",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=11"
+    },
+    {
+      "name": "Appian",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/appian",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=11"
+    },
+    {
+      "name": "Composable Prompts",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/composable-prompts",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=11"
+    },
+    {
+      "name": "MLCode",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/mlcode",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=11"
+    },
+    {
+      "name": "Heex",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/heex",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=11"
+    },
+    {
+      "name": "RagaAI Inc.",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/ragaai-inc",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=11"
+    },
+    {
+      "name": "Rebellions.ai",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/rebellions-ai",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=11"
+    },
+    {
+      "name": "Myelin Foundry",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/myelin-foundry",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=11"
+    },
+    {
+      "name": "Amelia",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/amelia",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=11"
+    },
+    {
+      "name": "Groq",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/groq",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=12"
+    },
+    {
+      "name": "Regression",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/regression",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=12"
+    },
+    {
+      "name": "Hatz AI",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/hatz-ai",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=12"
+    },
+    {
+      "name": "Ninja AI",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/ninja-ai",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=12"
+    },
+    {
+      "name": "Vicarius",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/vicarius",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=12"
+    },
+    {
+      "name": "Humains",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/humains",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=12"
+    },
+    {
+      "name": "Simbian",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/simbian",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=12"
+    },
+    {
+      "name": "TollBit",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/tollbit",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=12"
+    },
+    {
+      "name": "Amplifier Security",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/amplifier-security",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=12"
+    },
+    {
+      "name": "Fortra",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/fortra",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=12"
+    },
+    {
+      "name": "Box",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/box",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=12"
+    },
+    {
+      "name": "Freed",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/freed",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=12"
+    },
+    {
+      "name": "Crux",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/crux",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=13"
+    },
+    {
+      "name": "Recall.ai",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/recall-ai",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=13"
+    },
+    {
+      "name": "LanceDB",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/lancedb",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=13"
+    },
+    {
+      "name": "Lambda",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/lambda",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=13"
+    },
+    {
+      "name": "Applied Intuition",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/applied-intuition",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=13"
+    },
+    {
+      "name": "DatologyAI",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/datologyai",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=13"
+    },
+    {
+      "name": "Völur",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/volur",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=13"
+    },
+    {
+      "name": "Logmind",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/logmind",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=13"
+    },
+    {
+      "name": "Retell AI",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/retell",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=13"
+    },
+    {
+      "name": "Orkes",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/orkes",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=13"
+    },
+    {
+      "name": "Dashworks",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/dashworks",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=13"
+    },
+    {
+      "name": "Solda AI",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/solda-ai",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=13"
+    },
+    {
+      "name": "CulturePulse AI",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/culturepulse-ai",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=14"
+    },
+    {
+      "name": "Ema",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/ema",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=14"
+    },
+    {
+      "name": "BMC Helix",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/bmc-helix",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=14"
+    },
+    {
+      "name": "RunSybil",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/runsybil",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=14"
+    },
+    {
+      "name": "Fieldguide",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/fieldguide",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=14"
+    },
+    {
+      "name": "Jamix",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/jamix",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=14"
+    },
+    {
+      "name": "Cimba.AI",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/cimba-ai",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=14"
+    },
+    {
+      "name": "Planck Data",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/planck-data",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=14"
+    },
+    {
+      "name": "CoLumbo",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/columbo",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=14"
+    },
+    {
+      "name": "Athena",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/athena",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=14"
+    },
+    {
+      "name": "Nullify AI",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/nullify-ai",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=14"
+    },
+    {
+      "name": "Toqan",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/toqan",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=14"
+    },
+    {
+      "name": "Brevian",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/brevian",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=15"
+    },
+    {
+      "name": "Sourcetable",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/sourcetable",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=15"
+    },
+    {
+      "name": "Hybridity",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/hybridity",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=15"
+    },
+    {
+      "name": "Demodesk",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/demodesk",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=15"
+    },
+    {
+      "name": "Alation",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/alation",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=15"
+    },
+    {
+      "name": "Geminus",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/geminus",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=15"
+    },
+    {
+      "name": "Host.AI",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/host-ai",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=15"
+    },
+    {
+      "name": "Sunrise AI",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/sunrise-ai",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=15"
+    },
+    {
+      "name": "Sferal",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/sferal",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=15"
+    },
+    {
+      "name": "Guardrails",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/guardrails",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=15"
+    },
+    {
+      "name": "Datamatics",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/datamatics",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=15"
+    },
+    {
+      "name": "Pega Systems",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/pega-systems",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=15"
+    },
+    {
+      "name": "Guardrail Technologies",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/guardrail-technologies",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=16"
+    },
+    {
+      "name": "Deci",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/deci",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=16"
+    },
+    {
+      "name": "AiDash",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/aidash",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=16"
+    },
+    {
+      "name": "Zenity",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/zenity",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=16"
+    },
+    {
+      "name": "Mem0",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/mem0",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=16"
+    },
+    {
+      "name": "AgentOps",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/agentops",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=16"
+    },
+    {
+      "name": "Kognitos",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/kognitos",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=16"
+    },
+    {
+      "name": "Runcell",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/runcell",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=16"
+    },
+    {
+      "name": "Artisan",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/artisan",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=16"
+    },
+    {
+      "name": "Crosby Health",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/crosby-health",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=16"
+    },
+    {
+      "name": "Cadea",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/cadea",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=16"
+    },
+    {
+      "name": "Sahara AI",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/sahara-ai",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=16"
+    },
+    {
+      "name": "Vogent",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/vogent",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=17"
+    },
+    {
+      "name": "Hostcomm AI Agent",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/hostcomm-ai-agent",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=17"
+    },
+    {
+      "name": "Molin AI",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/molin-ai",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=17"
+    },
+    {
+      "name": "Moonhub",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/moonhub",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=17"
+    },
+    {
+      "name": "Anon",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/anon",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=17"
+    },
+    {
+      "name": "Sorted",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/sorted",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=17"
+    },
+    {
+      "name": "CitySwift",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/cityswift",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=17"
+    },
+    {
+      "name": "Dynamo",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/dynamo",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=17"
+    },
+    {
+      "name": "Composabl",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/composabl",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=17"
+    },
+    {
+      "name": "Snorkel AI",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/snorkel-ai",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=17"
+    },
+    {
+      "name": "Celigo",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/celigo",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=17"
+    },
+    {
+      "name": "TaxGPT",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/taxgpt",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=17"
+    },
+    {
+      "name": "Gobii",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/gobii",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=18"
+    },
+    {
+      "name": "Segwise",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/segwise",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=18"
+    },
+    {
+      "name": "Verdent",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/verdent",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=18"
+    },
+    {
+      "name": "Inference.ai",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/inference-ai",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=18"
+    },
+    {
+      "name": "Mindflow",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/mindflow",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=18"
+    },
+    {
+      "name": "SalesCloser AI",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/salescloser-ai",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=18"
+    },
+    {
+      "name": "Privacera",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/privacera",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=18"
+    },
+    {
+      "name": "OpenPipe",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/openpipe",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=18"
+    },
+    {
+      "name": "Enkrypt AI",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/enkrypt-ai",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=18"
+    },
+    {
+      "name": "Hyperscience",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/hyperscience",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=18"
+    },
+    {
+      "name": "MonaLabs",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/monalabs",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=18"
+    },
+    {
+      "name": "Bizagi",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/bizagi",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=18"
+    },
+    {
+      "name": "Jotform AI Agents",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/jotform-ai-agents",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=19"
+    },
+    {
+      "name": "BigPanda",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/bigpanda",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=19"
+    },
+    {
+      "name": "Together AI",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/together-ai",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=19"
+    },
+    {
+      "name": "Celonis",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/celonis",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=19"
+    },
+    {
+      "name": "Radiant Security",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/radiant-security",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=19"
+    },
+    {
+      "name": "Wand Enterprise",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/wand-enterprise",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=19"
+    },
+    {
+      "name": "Kater",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/kater",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=19"
+    },
+    {
+      "name": "E2B",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/e2b",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=19"
+    },
+    {
+      "name": "AgentsForce",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/agentsforce",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=19"
+    },
+    {
+      "name": "Bitpart AI",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/bitpart-ai",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=19"
+    },
+    {
+      "name": "Deltia",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/deltia",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=19"
+    },
+    {
+      "name": "Viam",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/viam",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=19"
+    },
+    {
+      "name": "Talus Network",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/talus-network",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=20"
+    },
+    {
+      "name": "Dhisana AI",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/dhisana-ai",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=20"
+    },
+    {
+      "name": "Illumex",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/illumex",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=20"
+    },
+    {
+      "name": "Aizon",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/aizon",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=20"
+    },
+    {
+      "name": "Akirolabs",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/akirolabs",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=20"
+    },
+    {
+      "name": "Recogni",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/recogni",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=20"
+    },
+    {
+      "name": "UiPath",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/uipath",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=20"
+    },
+    {
+      "name": "Arya.ai",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/arya-ai",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=20"
+    },
+    {
+      "name": "ActiveLoop.ai",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/activeloop-ai",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=20"
+    },
+    {
+      "name": "Hirevue",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/hirevue",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=20"
+    },
+    {
+      "name": "Tektonic AI",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/tektonic-ai",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=20"
+    },
+    {
+      "name": "Tray",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/tray",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=20"
+    },
+    {
+      "name": "ChainML",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/chainml",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=21"
+    },
+    {
+      "name": "Lore",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/lore",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=21"
+    },
+    {
+      "name": "Thoughtly",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/thoughtly",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=21"
+    },
+    {
+      "name": "AilaFlow",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/ailaflow",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=21"
+    },
+    {
+      "name": "crewAI",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/crewai",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=21"
+    },
+    {
+      "name": "Monitaur",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/monitaur",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=21"
+    },
+    {
+      "name": "Automation Anywhere",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/automation-anywhere",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=21"
+    },
+    {
+      "name": "Jsonify",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/jsonify",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=21"
+    },
+    {
+      "name": "Prime Intellect",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/prime-intellect",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=21"
+    },
+    {
+      "name": "Tensorplex",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/tensorplex",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=21"
+    },
+    {
+      "name": "Hailo",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/hailo",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=21"
+    },
+    {
+      "name": "Agentic",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/agentic",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=21"
+    },
+    {
+      "name": "Kay AI",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/kay-ai",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=22"
+    },
+    {
+      "name": "MarrLabs",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/marrlabs",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=22"
+    },
+    {
+      "name": "Infinitus Systems",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/infinitus-systems",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=22"
+    },
+    {
+      "name": "Intezer",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/intezer",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=22"
+    },
+    {
+      "name": "Capably",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/capably",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=22"
+    },
+    {
+      "name": "GoodFriend AI",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/goodfriend-ai",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=22"
+    },
+    {
+      "name": "Modl",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/modl",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=22"
+    },
+    {
+      "name": "Aleph Alpha",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/aleph-alpha",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=22"
+    },
+    {
+      "name": "SnapLogic",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/snaplogic",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=22"
+    },
+    {
+      "name": "MyShell",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/myshell",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=22"
+    },
+    {
+      "name": "11x",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/11x",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=22"
+    },
+    {
+      "name": "Gather AI",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/gather-ai",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=22"
+    },
+    {
+      "name": "Microsoft Azure",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/microsoft-azure",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=23"
+    },
+    {
+      "name": "PublicAI",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/publicai",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=23"
+    },
+    {
+      "name": "Blue Prism",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/blue-prism",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=23"
+    },
+    {
+      "name": "Duckie",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/duckie",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=23"
+    },
+    {
+      "name": "Causa",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/causa",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=23"
+    },
+    {
+      "name": "Arini",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/arini",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=23"
+    },
+    {
+      "name": "AUI",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/aui",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=23"
+    },
+    {
+      "name": "S5 Stratos",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/s5-stratos",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=23"
+    },
+    {
+      "name": "ZenAI",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/zenai",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=23"
+    },
+    {
+      "name": "Sema4.ai",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/sema4-ai",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=23"
+    },
+    {
+      "name": "Holistic AI",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/holistic-ai",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=23"
+    },
+    {
+      "name": "Espresso AI",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/espresso-ai",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=23"
+    },
+    {
+      "name": "FormsFlow",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/formsflow",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=24"
+    },
+    {
+      "name": "Interloom Technologies",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/interloom-technologies",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=24"
+    },
+    {
+      "name": "TinyFish",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/tinyfish",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=24"
+    },
+    {
+      "name": "Archetype AI",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/archetype-ai",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=24"
+    },
+    {
+      "name": "Hostinger | 1-Click OpenClaw",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/hostinger-openclaw",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=24"
+    },
+    {
+      "name": "AppDeploy",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/appdeploy",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=24"
+    },
+    {
+      "name": "PlotStudio AI",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/plotstudio-ai",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=24"
+    },
+    {
+      "name": "Bytemine",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/bytemine",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=24"
+    },
+    {
+      "name": "Navos",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/navos",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=24"
+    },
+    {
+      "name": "Knotr AI",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/knotr-ai",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=24"
+    },
+    {
+      "name": "Dedoctive",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/dedoctive",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=24"
+    },
+    {
+      "name": "Bloome",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/bloome",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=24"
+    },
+    {
+      "name": "Optimly",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/optimly",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=25"
+    },
+    {
+      "name": "ASI:One",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/asi-one",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=25"
+    },
+    {
+      "name": "Spira AI",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/spira-ai",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=25"
+    },
+    {
+      "name": "Atomic Bot",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/atomic-bot",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=25"
+    },
+    {
+      "name": "Browser Cloud by TestMu AI",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/browser-cloud",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=25"
+    },
+    {
+      "name": "UniAI",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/uniai",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=25"
+    },
+    {
+      "name": "PaioClaw",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/paioclaw",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=25"
+    },
+    {
+      "name": "AdaL",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/adal",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=25"
+    },
+    {
+      "name": "Pine AI",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/pine-ai",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=25"
+    },
+    {
+      "name": "Capafy",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/capafy",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=25"
+    },
+    {
+      "name": "aiOS",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/aios",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=25"
+    },
+    {
+      "name": "Respan",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/respan",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=25"
+    },
+    {
+      "name": "DashVox",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/dashvox",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=26"
+    },
+    {
+      "name": "Nimbalyst",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/nimbalyst",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=26"
+    },
+    {
+      "name": "SpeakUp",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/speakup",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=26"
+    },
+    {
+      "name": "Noodle Tomato",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/noodle-tomato",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=26"
+    },
+    {
+      "name": "Kane CLI",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/kane-cli",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=26"
+    },
+    {
+      "name": "AI MSL",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/ai-msl",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=26"
+    },
+    {
+      "name": "Powabase",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/powabase",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=26"
+    },
+    {
+      "name": "Pixo",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/pixo",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=26"
+    },
+    {
+      "name": "Sendmux",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/sendmux",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=26"
+    },
+    {
+      "name": "Limestone Digital",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/limestone-digital",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=26"
+    },
+    {
+      "name": "Moxo",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/moxo",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=26"
+    },
+    {
+      "name": "Wrangle",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/wrangle",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=26"
+    },
+    {
+      "name": "Referent",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/referent",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=27"
+    },
+    {
+      "name": "Carly AI",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/carly-ai",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=27"
+    },
+    {
+      "name": "MoClaw",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/moclaw",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=27"
+    },
+    {
+      "name": "Hiver",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/hiver",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=27"
+    },
+    {
+      "name": "Skygen",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/skygen",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=27"
+    },
+    {
+      "name": "SlidesPilot",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/slidespilot",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=27"
+    },
+    {
+      "name": "KiloClaw",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/kiloclaw",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=27"
+    },
+    {
+      "name": "ELECTE",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/electe",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=27"
+    },
+    {
+      "name": "Madgicx",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/madgicx",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=27"
+    },
+    {
+      "name": "IronClaw",
+      "rating": 0.0,
+      "source_url": "https://www.futurepedia.io/tool/ironclaw",
+      "source": "Futurepedia",
+      "category_url": "https://www.futurepedia.io/ai-tools/ai-agents?page=27"
+    }
+  ],
+  "seen_urls": [
+    "https://www.futurepedia.io/tool/zencall-ai",
+    "https://www.futurepedia.io/tool/n8n",
+    "https://www.futurepedia.io/tool/auto-gpt",
+    "https://www.futurepedia.io/tool/agentverse",
+    "https://www.futurepedia.io/tool/chatgpt",
+    "https://www.futurepedia.io/tool/windsurf",
+    "https://www.futurepedia.io/tool/softr",
+    "https://www.futurepedia.io/tool/chatbase",
+    "https://www.futurepedia.io/tool/agentgpt",
+    "https://www.futurepedia.io/tool/stratupai",
+    "https://www.futurepedia.io/tool/baby-agi",
+    "https://www.futurepedia.io/tool/meshy",
+    "https://www.futurepedia.io/tool/customgpt",
+    "https://www.futurepedia.io/tool/superagi",
+    "https://www.futurepedia.io/tool/inworld",
+    "https://www.futurepedia.io/tool/coinfeeds",
+    "https://www.futurepedia.io/tool/circlebackai",
+    "https://www.futurepedia.io/tool/lenix",
+    "https://www.futurepedia.io/tool/rolemodel-ai",
+    "https://www.futurepedia.io/tool/cheat-layer",
+    "https://www.futurepedia.io/tool/gptconsole",
+    "https://www.futurepedia.io/tool/cognosys",
+    "https://www.futurepedia.io/tool/clevis",
+    "https://www.futurepedia.io/tool/mindstudio",
+    "https://www.futurepedia.io/tool/qodo",
+    "https://www.futurepedia.io/tool/stammer",
+    "https://www.futurepedia.io/tool/marketing-strategy-generator",
+    "https://www.futurepedia.io/tool/setter-ai",
+    "https://www.futurepedia.io/tool/mailmaestro",
+    "https://www.futurepedia.io/tool/theloops",
+    "https://www.futurepedia.io/tool/insight7",
+    "https://www.futurepedia.io/tool/rapport",
+    "https://www.futurepedia.io/tool/convai",
+    "https://www.futurepedia.io/tool/lindyai",
+    "https://www.futurepedia.io/tool/agentx",
+    "https://www.futurepedia.io/tool/adept",
+    "https://www.futurepedia.io/tool/iplan-ai",
+    "https://www.futurepedia.io/tool/tulskio",
+    "https://www.futurepedia.io/tool/momen",
+    "https://www.futurepedia.io/tool/heymilo",
+    "https://www.futurepedia.io/tool/sonara",
+    "https://www.futurepedia.io/tool/relevance-ai",
+    "https://www.futurepedia.io/tool/simple-phones",
+    "https://www.futurepedia.io/tool/dart",
+    "https://www.futurepedia.io/tool/nabla",
+    "https://www.futurepedia.io/tool/kintext",
+    "https://www.futurepedia.io/tool/wellpin",
+    "https://www.futurepedia.io/tool/ask-layla",
+    "https://www.futurepedia.io/tool/beloga",
+    "https://www.futurepedia.io/tool/mindsera",
+    "https://www.futurepedia.io/tool/cassidy",
+    "https://www.futurepedia.io/tool/b2b-rocket",
+    "https://www.futurepedia.io/tool/momentum",
+    "https://www.futurepedia.io/tool/enso",
+    "https://www.futurepedia.io/tool/lutra-ai",
+    "https://www.futurepedia.io/tool/adrenaline",
+    "https://www.futurepedia.io/tool/aidelly",
+    "https://www.futurepedia.io/tool/imbue",
+    "https://www.futurepedia.io/tool/langchain",
+    "https://www.futurepedia.io/tool/manus",
+    "https://www.futurepedia.io/tool/llamaindex",
+    "https://www.futurepedia.io/tool/replicate",
+    "https://www.futurepedia.io/tool/mixus",
+    "https://www.futurepedia.io/tool/comet",
+    "https://www.futurepedia.io/tool/justcopy-ai",
+    "https://www.futurepedia.io/tool/tradeos-ai",
+    "https://www.futurepedia.io/tool/cometapi",
+    "https://www.futurepedia.io/tool/vibescan",
+    "https://www.futurepedia.io/tool/brightbid",
+    "https://www.futurepedia.io/tool/vic-ai",
+    "https://www.futurepedia.io/tool/metagpt",
+    "https://www.futurepedia.io/tool/lyzr",
+    "https://www.futurepedia.io/tool/encharge-ai",
+    "https://www.futurepedia.io/tool/knostic",
+    "https://www.futurepedia.io/tool/janitor-ai",
+    "https://www.futurepedia.io/tool/shield-ai",
+    "https://www.futurepedia.io/tool/dcipher-insight-booster",
+    "https://www.futurepedia.io/tool/vocode",
+    "https://www.futurepedia.io/tool/evermemos",
+    "https://www.futurepedia.io/tool/refraction-ai",
+    "https://www.futurepedia.io/tool/gridspace",
+    "https://www.futurepedia.io/tool/langtail",
+    "https://www.futurepedia.io/tool/prophet-security",
+    "https://www.futurepedia.io/tool/micro1",
+    "https://www.futurepedia.io/tool/flexai",
+    "https://www.futurepedia.io/tool/openclaw",
+    "https://www.futurepedia.io/tool/boomi",
+    "https://www.futurepedia.io/tool/gradient-labs",
+    "https://www.futurepedia.io/tool/quickcode-ai",
+    "https://www.futurepedia.io/tool/kaneai",
+    "https://www.futurepedia.io/tool/black-swan",
+    "https://www.futurepedia.io/tool/aporia",
+    "https://www.futurepedia.io/tool/ensis",
+    "https://www.futurepedia.io/tool/wellows",
+    "https://www.futurepedia.io/tool/werd",
+    "https://www.futurepedia.io/tool/ada",
+    "https://www.futurepedia.io/tool/token-security",
+    "https://www.futurepedia.io/tool/cleric",
+    "https://www.futurepedia.io/tool/sapien",
+    "https://www.futurepedia.io/tool/ai-first",
+    "https://www.futurepedia.io/tool/kusho",
+    "https://www.futurepedia.io/tool/automaited",
+    "https://www.futurepedia.io/tool/azara",
+    "https://www.futurepedia.io/tool/minion-ai",
+    "https://www.futurepedia.io/tool/dropzone",
+    "https://www.futurepedia.io/tool/mindverse",
+    "https://www.futurepedia.io/tool/firsthand",
+    "https://www.futurepedia.io/tool/hebbia",
+    "https://www.futurepedia.io/tool/neuron7-ai",
+    "https://www.futurepedia.io/tool/picogrid",
+    "https://www.futurepedia.io/tool/voctiv",
+    "https://www.futurepedia.io/tool/cyclops-security",
+    "https://www.futurepedia.io/tool/apex",
+    "https://www.futurepedia.io/tool/thoughtful-ai",
+    "https://www.futurepedia.io/tool/terminus-group",
+    "https://www.futurepedia.io/tool/citrusx",
+    "https://www.futurepedia.io/tool/intercom",
+    "https://www.futurepedia.io/tool/altera",
+    "https://www.futurepedia.io/tool/miro",
+    "https://www.futurepedia.io/tool/cosupport-ai",
+    "https://www.futurepedia.io/tool/mcp-showcase",
+    "https://www.futurepedia.io/tool/aviaryai",
+    "https://www.futurepedia.io/tool/atoms",
+    "https://www.futurepedia.io/tool/banana",
+    "https://www.futurepedia.io/tool/appian",
+    "https://www.futurepedia.io/tool/composable-prompts",
+    "https://www.futurepedia.io/tool/mlcode",
+    "https://www.futurepedia.io/tool/heex",
+    "https://www.futurepedia.io/tool/ragaai-inc",
+    "https://www.futurepedia.io/tool/rebellions-ai",
+    "https://www.futurepedia.io/tool/myelin-foundry",
+    "https://www.futurepedia.io/tool/amelia",
+    "https://www.futurepedia.io/tool/groq",
+    "https://www.futurepedia.io/tool/regression",
+    "https://www.futurepedia.io/tool/hatz-ai",
+    "https://www.futurepedia.io/tool/ninja-ai",
+    "https://www.futurepedia.io/tool/vicarius",
+    "https://www.futurepedia.io/tool/humains",
+    "https://www.futurepedia.io/tool/simbian",
+    "https://www.futurepedia.io/tool/tollbit",
+    "https://www.futurepedia.io/tool/amplifier-security",
+    "https://www.futurepedia.io/tool/fortra",
+    "https://www.futurepedia.io/tool/box",
+    "https://www.futurepedia.io/tool/freed",
+    "https://www.futurepedia.io/tool/crux",
+    "https://www.futurepedia.io/tool/recall-ai",
+    "https://www.futurepedia.io/tool/lancedb",
+    "https://www.futurepedia.io/tool/lambda",
+    "https://www.futurepedia.io/tool/applied-intuition",
+    "https://www.futurepedia.io/tool/datologyai",
+    "https://www.futurepedia.io/tool/volur",
+    "https://www.futurepedia.io/tool/logmind",
+    "https://www.futurepedia.io/tool/retell",
+    "https://www.futurepedia.io/tool/orkes",
+    "https://www.futurepedia.io/tool/dashworks",
+    "https://www.futurepedia.io/tool/solda-ai",
+    "https://www.futurepedia.io/tool/culturepulse-ai",
+    "https://www.futurepedia.io/tool/ema",
+    "https://www.futurepedia.io/tool/bmc-helix",
+    "https://www.futurepedia.io/tool/runsybil",
+    "https://www.futurepedia.io/tool/fieldguide",
+    "https://www.futurepedia.io/tool/jamix",
+    "https://www.futurepedia.io/tool/cimba-ai",
+    "https://www.futurepedia.io/tool/planck-data",
+    "https://www.futurepedia.io/tool/columbo",
+    "https://www.futurepedia.io/tool/athena",
+    "https://www.futurepedia.io/tool/nullify-ai",
+    "https://www.futurepedia.io/tool/toqan",
+    "https://www.futurepedia.io/tool/brevian",
+    "https://www.futurepedia.io/tool/sourcetable",
+    "https://www.futurepedia.io/tool/hybridity",
+    "https://www.futurepedia.io/tool/demodesk",
+    "https://www.futurepedia.io/tool/alation",
+    "https://www.futurepedia.io/tool/geminus",
+    "https://www.futurepedia.io/tool/host-ai",
+    "https://www.futurepedia.io/tool/sunrise-ai",
+    "https://www.futurepedia.io/tool/sferal",
+    "https://www.futurepedia.io/tool/guardrails",
+    "https://www.futurepedia.io/tool/datamatics",
+    "https://www.futurepedia.io/tool/pega-systems",
+    "https://www.futurepedia.io/tool/guardrail-technologies",
+    "https://www.futurepedia.io/tool/deci",
+    "https://www.futurepedia.io/tool/aidash",
+    "https://www.futurepedia.io/tool/zenity",
+    "https://www.futurepedia.io/tool/mem0",
+    "https://www.futurepedia.io/tool/agentops",
+    "https://www.futurepedia.io/tool/kognitos",
+    "https://www.futurepedia.io/tool/runcell",
+    "https://www.futurepedia.io/tool/artisan",
+    "https://www.futurepedia.io/tool/crosby-health",
+    "https://www.futurepedia.io/tool/cadea",
+    "https://www.futurepedia.io/tool/sahara-ai",
+    "https://www.futurepedia.io/tool/vogent",
+    "https://www.futurepedia.io/tool/hostcomm-ai-agent",
+    "https://www.futurepedia.io/tool/molin-ai",
+    "https://www.futurepedia.io/tool/moonhub",
+    "https://www.futurepedia.io/tool/anon",
+    "https://www.futurepedia.io/tool/sorted",
+    "https://www.futurepedia.io/tool/cityswift",
+    "https://www.futurepedia.io/tool/dynamo",
+    "https://www.futurepedia.io/tool/composabl",
+    "https://www.futurepedia.io/tool/snorkel-ai",
+    "https://www.futurepedia.io/tool/celigo",
+    "https://www.futurepedia.io/tool/taxgpt",
+    "https://www.futurepedia.io/tool/gobii",
+    "https://www.futurepedia.io/tool/segwise",
+    "https://www.futurepedia.io/tool/verdent",
+    "https://www.futurepedia.io/tool/inference-ai",
+    "https://www.futurepedia.io/tool/mindflow",
+    "https://www.futurepedia.io/tool/salescloser-ai",
+    "https://www.futurepedia.io/tool/privacera",
+    "https://www.futurepedia.io/tool/openpipe",
+    "https://www.futurepedia.io/tool/enkrypt-ai",
+    "https://www.futurepedia.io/tool/hyperscience",
+    "https://www.futurepedia.io/tool/monalabs",
+    "https://www.futurepedia.io/tool/bizagi",
+    "https://www.futurepedia.io/tool/jotform-ai-agents",
+    "https://www.futurepedia.io/tool/bigpanda",
+    "https://www.futurepedia.io/tool/together-ai",
+    "https://www.futurepedia.io/tool/celonis",
+    "https://www.futurepedia.io/tool/radiant-security",
+    "https://www.futurepedia.io/tool/wand-enterprise",
+    "https://www.futurepedia.io/tool/kater",
+    "https://www.futurepedia.io/tool/e2b",
+    "https://www.futurepedia.io/tool/agentsforce",
+    "https://www.futurepedia.io/tool/bitpart-ai",
+    "https://www.futurepedia.io/tool/deltia",
+    "https://www.futurepedia.io/tool/viam",
+    "https://www.futurepedia.io/tool/talus-network",
+    "https://www.futurepedia.io/tool/dhisana-ai",
+    "https://www.futurepedia.io/tool/illumex",
+    "https://www.futurepedia.io/tool/aizon",
+    "https://www.futurepedia.io/tool/akirolabs",
+    "https://www.futurepedia.io/tool/recogni",
+    "https://www.futurepedia.io/tool/uipath",
+    "https://www.futurepedia.io/tool/arya-ai",
+    "https://www.futurepedia.io/tool/activeloop-ai",
+    "https://www.futurepedia.io/tool/hirevue",
+    "https://www.futurepedia.io/tool/tektonic-ai",
+    "https://www.futurepedia.io/tool/tray",
+    "https://www.futurepedia.io/tool/chainml",
+    "https://www.futurepedia.io/tool/lore",
+    "https://www.futurepedia.io/tool/thoughtly",
+    "https://www.futurepedia.io/tool/ailaflow",
+    "https://www.futurepedia.io/tool/crewai",
+    "https://www.futurepedia.io/tool/monitaur",
+    "https://www.futurepedia.io/tool/automation-anywhere",
+    "https://www.futurepedia.io/tool/jsonify",
+    "https://www.futurepedia.io/tool/prime-intellect",
+    "https://www.futurepedia.io/tool/tensorplex",
+    "https://www.futurepedia.io/tool/hailo",
+    "https://www.futurepedia.io/tool/agentic",
+    "https://www.futurepedia.io/tool/kay-ai",
+    "https://www.futurepedia.io/tool/marrlabs",
+    "https://www.futurepedia.io/tool/infinitus-systems",
+    "https://www.futurepedia.io/tool/intezer",
+    "https://www.futurepedia.io/tool/capably",
+    "https://www.futurepedia.io/tool/goodfriend-ai",
+    "https://www.futurepedia.io/tool/modl",
+    "https://www.futurepedia.io/tool/aleph-alpha",
+    "https://www.futurepedia.io/tool/snaplogic",
+    "https://www.futurepedia.io/tool/myshell",
+    "https://www.futurepedia.io/tool/11x",
+    "https://www.futurepedia.io/tool/gather-ai",
+    "https://www.futurepedia.io/tool/microsoft-azure",
+    "https://www.futurepedia.io/tool/publicai",
+    "https://www.futurepedia.io/tool/blue-prism",
+    "https://www.futurepedia.io/tool/duckie",
+    "https://www.futurepedia.io/tool/causa",
+    "https://www.futurepedia.io/tool/arini",
+    "https://www.futurepedia.io/tool/aui",
+    "https://www.futurepedia.io/tool/s5-stratos",
+    "https://www.futurepedia.io/tool/zenai",
+    "https://www.futurepedia.io/tool/sema4-ai",
+    "https://www.futurepedia.io/tool/holistic-ai",
+    "https://www.futurepedia.io/tool/espresso-ai",
+    "https://www.futurepedia.io/tool/formsflow",
+    "https://www.futurepedia.io/tool/interloom-technologies",
+    "https://www.futurepedia.io/tool/tinyfish",
+    "https://www.futurepedia.io/tool/archetype-ai",
+    "https://www.futurepedia.io/tool/hostinger-openclaw",
+    "https://www.futurepedia.io/tool/appdeploy",
+    "https://www.futurepedia.io/tool/plotstudio-ai",
+    "https://www.futurepedia.io/tool/bytemine",
+    "https://www.futurepedia.io/tool/navos",
+    "https://www.futurepedia.io/tool/knotr-ai",
+    "https://www.futurepedia.io/tool/dedoctive",
+    "https://www.futurepedia.io/tool/bloome",
+    "https://www.futurepedia.io/tool/optimly",
+    "https://www.futurepedia.io/tool/asi-one",
+    "https://www.futurepedia.io/tool/spira-ai",
+    "https://www.futurepedia.io/tool/atomic-bot",
+    "https://www.futurepedia.io/tool/browser-cloud",
+    "https://www.futurepedia.io/tool/uniai",
+    "https://www.futurepedia.io/tool/paioclaw",
+    "https://www.futurepedia.io/tool/adal",
+    "https://www.futurepedia.io/tool/pine-ai",
+    "https://www.futurepedia.io/tool/capafy",
+    "https://www.futurepedia.io/tool/aios",
+    "https://www.futurepedia.io/tool/respan",
+    "https://www.futurepedia.io/tool/dashvox",
+    "https://www.futurepedia.io/tool/nimbalyst",
+    "https://www.futurepedia.io/tool/speakup",
+    "https://www.futurepedia.io/tool/noodle-tomato",
+    "https://www.futurepedia.io/tool/kane-cli",
+    "https://www.futurepedia.io/tool/ai-msl",
+    "https://www.futurepedia.io/tool/powabase",
+    "https://www.futurepedia.io/tool/pixo",
+    "https://www.futurepedia.io/tool/sendmux",
+    "https://www.futurepedia.io/tool/limestone-digital",
+    "https://www.futurepedia.io/tool/moxo",
+    "https://www.futurepedia.io/tool/wrangle",
+    "https://www.futurepedia.io/tool/referent",
+    "https://www.futurepedia.io/tool/carly-ai",
+    "https://www.futurepedia.io/tool/moclaw",
+    "https://www.futurepedia.io/tool/hiver",
+    "https://www.futurepedia.io/tool/skygen",
+    "https://www.futurepedia.io/tool/slidespilot",
+    "https://www.futurepedia.io/tool/kiloclaw",
+    "https://www.futurepedia.io/tool/electe",
+    "https://www.futurepedia.io/tool/madgicx",
+    "https://www.futurepedia.io/tool/ironclaw"
+  ]
+}

@@ -1,0 +1,223 @@
+[
+  {
+    "schemaVersion": "1.0",
+    "recordType": "news",
+    "source": {
+      "name": "The Verge AI",
+      "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"
+    },
+    "content": {
+      "title": "OpenAI just wants to win",
+      "description": "OpenAI has spent the last few years planting flags across the increasingly difficult terrain in mathematics. This week, it claimed one of its biggest prizes yet: a solution to a legendary Millennium Prize problem. In normal circumstances, this would have been celebrated as a historic achievement. Instead, many mathematicians have watched OpenAI's relentless advance with […]",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
+      "author": "Robert Hart",
+      "published_at": "2026-09-12T11:00:00+00:00"
+    },
+    "collected_at": "2026-09-12T12:56:13.021253+00:00",
+    "content_hash": "c17497092e43d3a821de94bdabff5bfddf01b22b3fa55a6ece7611f72fa20d3f"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "news",
+    "source": {
+      "name": "TechCrunch AI",
+      "url": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    "content": {
+      "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+      "description": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
+      "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data",
+      "author": "Marina Temkin",
+      "published_at": "2026-09-11T22:58:17+00:00"
+    },
+    "collected_at": "2026-09-12T12:56:13.089210+00:00",
+    "content_hash": "a26d90f8a2966e2b53c82409b8560a8b8041335abcc31572f5ab49fe06026e07"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "news",
+    "source": {
+      "name": "TechCrunch AI",
+      "url": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    "content": {
+      "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
+      "description": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.",
+      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
+      "author": "Julie Bort",
+      "published_at": "2026-09-11T20:59:47+00:00"
+    },
+    "collected_at": "2026-09-12T12:56:13.090537+00:00",
+    "content_hash": "6a03294361a1653adbe0fbcad4b4126e75ed790658b345ab7970c63f713dc447"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "news",
+    "source": {
+      "name": "TechCrunch AI",
+      "url": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    "content": {
+      "title": "OpenAI’s feud with mathematicians is only escalating",
+      "description": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
+      "url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating",
+      "author": "Tim Fernholz",
+      "published_at": "2026-09-11T20:57:36+00:00"
+    },
+    "collected_at": "2026-09-12T12:56:13.090537+00:00",
+    "content_hash": "4c35e82bb454f90e6cb202bd9c2a097bcc608a6c98c4faef45ac3277aff83892"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "news",
+    "source": {
+      "name": "The Verge AI",
+      "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"
+    },
+    "content": {
+      "title": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
+      "description": "New Mexico's Supreme Court is punishing a lawyer for including AI-fabricated witnesses and fake police testimony in an appeal for his client's murder conviction, according to a report from Reuters. In a filing on Wednesday, the court fined Stephen Aarons $5,000 and held him in contempt for failing to \"verify the factual claims and legal […]",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
+      "author": "Emma Roth",
+      "published_at": "2026-09-11T20:44:02+00:00"
+    },
+    "collected_at": "2026-09-12T12:56:13.022189+00:00",
+    "content_hash": "69bcaae5752f7dce863a482e359e7f191a5c18a0bd0aebc2681f045df1e53e81"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "news",
+    "source": {
+      "name": "TechCrunch AI",
+      "url": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    "content": {
+      "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
+      "description": "Only one week left to secure your exhibit table. Tables are limited and can sell out before the September 18 deadline.",
+      "url": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026",
+      "author": "TechCrunch Events",
+      "published_at": "2026-09-11T20:33:18+00:00"
+    },
+    "collected_at": "2026-09-12T12:56:13.091538+00:00",
+    "content_hash": "797084cccc800c439f5d1096ec5f1b88eea91cb823652c23b19c0b8ffe733503"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "news",
+    "source": {
+      "name": "TechCrunch AI",
+      "url": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    "content": {
+      "title": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
+      "description": "The absolute last chance to apply to host an official Side Event during TechCrunch Disrupt 2026 is tonight, September 11, at 11:59 p.m. PT.",
+      "url": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events",
+      "author": "TechCrunch Events",
+      "published_at": "2026-09-11T20:30:17+00:00"
+    },
+    "collected_at": "2026-09-12T12:56:13.091538+00:00",
+    "content_hash": "97c7e7bf93f79d75942d2758a29ac5494d1d797c2197245cd201b631fbe62b5c"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "news",
+    "source": {
+      "name": "MIT Technology Review AI",
+      "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed/"
+    },
+    "content": {
+      "title": "Roundtables: AI’s apocalypse crisis",
+      "description": "Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth for a conversation with senior AI editor Will Douglas Heaven and AI reporter Grace Huckins unpacking AI extinction…",
+      "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all",
+      "author": "MIT Technology Review",
+      "published_at": "2026-09-11T20:05:06+00:00"
+    },
+    "collected_at": "2026-09-12T12:56:13.196493+00:00",
+    "content_hash": "7ead7a5d6687aa5faaa921221cef247be0646cdd0f1bb4293d04ee7bec1f6f75"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "news",
+    "source": {
+      "name": "TechCrunch AI",
+      "url": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    "content": {
+      "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
+      "description": "While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each day by K3 models on the system.",
+      "url": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue",
+      "author": "Russell Brandom",
+      "published_at": "2026-09-11T19:35:54+00:00"
+    },
+    "collected_at": "2026-09-12T12:56:13.093319+00:00",
+    "content_hash": "f8d3adb8eaa689d2b403a99b06ac2aaeea5ffabad23bcb191430600a38db4dfb"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "news",
+    "source": {
+      "name": "TechCrunch AI",
+      "url": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    "content": {
+      "title": "An Anthropic researcher’s doomsday warning comes at a very interesting time",
+      "description": "An Anthropic researcher resigned this week, warning in a post on X that the company is “racing straight to self-improving superintelligence and gambling with our lives”. The company’s own alignment lead even co-signed the message rather than walking it back. It’s the kind of doomer warning the AI industry has flirted with before, but the timing, with Anthropic reportedly preparing for an IPO, makes it land differently. On […]",
+      "url": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time",
+      "author": "Theresa Loconsolo, Anthony Ha, Sean O'Kane, Kirsten Korosec",
+      "published_at": "2026-09-11T18:41:49+00:00"
+    },
+    "collected_at": "2026-09-12T12:56:13.094332+00:00",
+    "content_hash": "871199de5024099d2dbb7189c33739e90f6032aa3656d4aade3202a73af98ee6"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "news",
+    "source": {
+      "name": "TechCrunch AI",
+      "url": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    "content": {
+      "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
+      "description": "The No. 2 exec at OpenAI also led Instacart through its IPO in 2023.",
+      "url": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo",
+      "author": "Kirsten Korosec",
+      "published_at": "2026-09-11T16:46:25+00:00"
+    },
+    "collected_at": "2026-09-12T12:56:13.095335+00:00",
+    "content_hash": "407471a21d2a084055dd98de6936b5c19a7501424f3604a265c23b3eb09e03b6"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "news",
+    "source": {
+      "name": "The Verge AI",
+      "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"
+    },
+    "content": {
+      "title": "Anthropic spent this week in hot water over cybersecurity",
+      "description": "After admitting earlier this year that its AI models had hacked other companies' systems on a handful of occasions, Anthropic released a new report on Wednesday detailing the attacks. It reveals a string of incidents displaying what Anthropic deems its models' single-minded \"recklessness\" - and will likely fuel already raging concerns about cybersecurity and AI. […]",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
+      "author": "Hayden Field",
+      "published_at": "2026-09-11T16:09:14+00:00"
+    },
+    "collected_at": "2026-09-12T12:56:13.023188+00:00",
+    "content_hash": "e22bf414c2e675b7b43c603070b56eab64095e171f56b6958707e8bd97b635f6"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "news",
+    "source": {
+      "name": "The Verge AI",
+      "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"
+    },
+    "content": {
+      "title": "Meta says it’s changing AI suggestions after posing invasive personal questions",
+      "description": "Meta says it's making changes to the prompts suggested by its AI chatbot after a viral video showed it digging for personal information about a woman's young daughters, as reported earlier by Futurism. In a statement to The Verge, Meta spokesperson Dina El-Kassaby says the company \"missed the mark,\" adding that \"the feature never should […]",
+      "url": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
+      "author": "Emma Roth",
+      "published_at": "2026-09-11T14:25:21+00:00"
+    },
+    "collected_at": "2026-09-12T12:56:13.023932+00:00",
+    "content_hash": "67929f2cc43af46cf1b187d38f0a887647aa545979a7ddf37a413b4203931a96"
+  }
+]

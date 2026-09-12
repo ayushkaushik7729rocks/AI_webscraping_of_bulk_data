@@ -1,0 +1,976 @@
+{
+  "accepted": [
+    {
+      "name": "0G Labs",
+      "category": "AI",
+      "location": "San Francisco, United States",
+      "funding": "$75.0M",
+      "description": "Building the world's first decentralized AI operating system for scalable, verifiable, and open AI.",
+      "source_url": "https://www.startuphub.ai/startups/0g-labs",
+      "source": "StartupHub.ai",
+      "relevance": {
+        "decision": "ACCEPT",
+        "score": 70,
+        "evidence": [
+          "category_ai_keyword:ai"
+        ]
+      }
+    },
+    {
+      "name": "0sec",
+      "category": "Cybersecurity",
+      "location": null,
+      "funding": null,
+      "description": "An applied cybersecurity research lab using AI agents to autonomously discover, exploit, and verify software vulnerabilities.",
+      "source_url": "https://www.startuphub.ai/startups/0sec",
+      "source": "StartupHub.ai",
+      "relevance": {
+        "decision": "ACCEPT",
+        "score": 40,
+        "evidence": [
+          "description_ai_keyword:using ai",
+          "description_ai_keyword:ai agents",
+          "description_ai_keyword:ai agent"
+        ]
+      }
+    },
+    {
+      "name": "0xWork",
+      "category": "Web3",
+      "location": null,
+      "funding": null,
+      "description": "Decentralized marketplace for autonomous AI agents to find work, build reputation, and earn USDC.",
+      "source_url": "https://www.startuphub.ai/startups/0xwork",
+      "source": "StartupHub.ai",
+      "relevance": {
+        "decision": "ACCEPT",
+        "score": 40,
+        "evidence": [
+          "description_ai_keyword:ai agents",
+          "description_ai_keyword:ai agent"
+        ]
+      }
+    },
+    {
+      "name": "1001",
+      "category": "Agentic AI",
+      "location": "Tel Aviv, Israel",
+      "funding": "$30.5M",
+      "description": "1001 is the AI-powered intelligence layer helping enterprises transform decisions, orchestrate actions, and accelerate outcomes.",
+      "source_url": "https://www.startuphub.ai/startups/1001",
+      "source": "StartupHub.ai",
+      "relevance": {
+        "decision": "ACCEPT",
+        "score": 110,
+        "evidence": [
+          "category_ai_keyword:agentic ai",
+          "category_ai_keyword:ai",
+          "description_ai_keyword:ai-powered"
+        ]
+      }
+    },
+    {
+      "name": "10Web.io",
+      "category": "AI Website Builder",
+      "location": "Tel Aviv, Israel",
+      "funding": null,
+      "description": "AI-powered platform for building, hosting, and managing WordPress websites with an AI Website Builder and AI Co-Pilot.",
+      "source_url": "https://www.startuphub.ai/startups/10web-io",
+      "source": "StartupHub.ai",
+      "relevance": {
+        "decision": "ACCEPT",
+        "score": 110,
+        "evidence": [
+          "category_ai_keyword:ai website builder",
+          "category_ai_keyword:ai",
+          "description_ai_keyword:ai-powered"
+        ]
+      }
+    },
+    {
+      "name": "10xreach",
+      "category": "Agentic AI",
+      "location": null,
+      "funding": null,
+      "description": "Agentic AI SDR platform by Innovatix",
+      "source_url": "https://www.startuphub.ai/startups/10xreach",
+      "source": "StartupHub.ai",
+      "relevance": {
+        "decision": "ACCEPT",
+        "score": 110,
+        "evidence": [
+          "category_ai_keyword:agentic ai",
+          "category_ai_keyword:ai",
+          "description_ai_keyword:agentic ai"
+        ]
+      }
+    },
+    {
+      "name": "11x",
+      "category": "Agentic AI",
+      "location": "San Francisco, United States",
+      "funding": null,
+      "description": "11x builds autonomous digital workers powered by AI to revolutionize sales, RevOps, and Go-to-Market teams.",
+      "source_url": "https://www.startuphub.ai/startups/11x",
+      "source": "StartupHub.ai",
+      "relevance": {
+        "decision": "ACCEPT",
+        "score": 110,
+        "evidence": [
+          "category_ai_keyword:agentic ai",
+          "category_ai_keyword:ai",
+          "description_ai_keyword:powered by ai"
+        ]
+      }
+    },
+    {
+      "name": "123every",
+      "category": "Text, image, audio, music and video from every major AI model. Generate in the studio or call all of them from a single API.",
+      "location": null,
+      "funding": null,
+      "description": null,
+      "source_url": "https://www.startuphub.ai/startups/123every",
+      "source": "StartupHub.ai",
+      "relevance": {
+        "decision": "ACCEPT",
+        "score": 70,
+        "evidence": [
+          "category_ai_keyword:ai"
+        ]
+      }
+    },
+    {
+      "name": "14.ai",
+      "category": "Customer Support",
+      "location": "San Francisco, USA",
+      "funding": "$500K",
+      "description": "An AI-native customer support agency that replaces legacy customer support teams.",
+      "source_url": "https://www.startuphub.ai/startups/14ai",
+      "source": "StartupHub.ai",
+      "relevance": {
+        "decision": "ACCEPT",
+        "score": 40,
+        "evidence": [
+          "description_ai_keyword:ai-native"
+        ]
+      }
+    },
+    {
+      "name": "1agi",
+      "category": "Frontier AI Lab",
+      "location": null,
+      "funding": null,
+      "description": "Launching soon with exciting technology, offering updates and newsletter sign-ups.",
+      "source_url": "https://www.startuphub.ai/startups/1agi",
+      "source": "StartupHub.ai",
+      "relevance": {
+        "decision": "ACCEPT",
+        "score": 70,
+        "evidence": [
+          "category_ai_keyword:frontier ai",
+          "category_ai_keyword:ai"
+        ]
+      }
+    }
+  ],
+  "review": [
+    {
+      "name": "01Health",
+      "category": "HealthTech",
+      "location": "London, United Kingdom",
+      "funding": "$15.0M",
+      "description": "A healthcare technology company enabling local clinics to provide specialist healthcare services.",
+      "source_url": "https://www.startuphub.ai/startups/01health",
+      "source": "StartupHub.ai",
+      "relevance": {
+        "decision": "REVIEW",
+        "score": 0,
+        "evidence": []
+      }
+    },
+    {
+      "name": "0mcp",
+      "category": "API Platform",
+      "location": null,
+      "funding": null,
+      "description": "Convert any upstream API into a hosted MCP server. Import OpenAPI specs, configure tools, and deploy instantly.",
+      "source_url": "https://www.startuphub.ai/startups/0mcp",
+      "source": "StartupHub.ai",
+      "relevance": {
+        "decision": "REVIEW",
+        "score": 0,
+        "evidence": []
+      }
+    },
+    {
+      "name": "0to9",
+      "category": "EdTech",
+      "location": "Tel Aviv, Israel",
+      "funding": "$101.5M",
+      "description": "We are a bank for entrepreneurship – an European fintech venture builder and investor. Built by, and for company builders. We provide infrastructure for fintech entrepreneurs ready to start and scale",
+      "source_url": "https://www.startuphub.ai/startups/0to9",
+      "source": "StartupHub.ai",
+      "relevance": {
+        "decision": "REVIEW",
+        "score": 0,
+        "evidence": []
+      }
+    },
+    {
+      "name": "1 Mod",
+      "category": "London, United Kingdom",
+      "location": null,
+      "funding": null,
+      "description": "1Mod is a free PC game mods platform with 109,000+ mods for Black Myth: Wukong, Cyberpunk 2077, GTA V, The Witcher 3, Sekiro and more. One-click install, smart mod manager, trainers and accelerator to",
+      "source_url": "https://www.startuphub.ai/startups/1-mod",
+      "source": "StartupHub.ai",
+      "relevance": {
+        "decision": "REVIEW",
+        "score": 0,
+        "evidence": []
+      }
+    },
+    {
+      "name": "1001threadsofmizan",
+      "category": "EdTech",
+      "location": null,
+      "funding": null,
+      "description": null,
+      "source_url": "https://www.startuphub.ai/startups/1001threadsofmizan",
+      "source": "StartupHub.ai",
+      "relevance": {
+        "decision": "REVIEW",
+        "score": 0,
+        "evidence": []
+      }
+    },
+    {
+      "name": "100daysofhope",
+      "category": "A practical guide to listening better, acting faster and turning promise into progress. Hope must be designed into leadership. Join the launch list.",
+      "location": null,
+      "funding": null,
+      "description": null,
+      "source_url": "https://www.startuphub.ai/startups/100daysofhope",
+      "source": "StartupHub.ai",
+      "relevance": {
+        "decision": "REVIEW",
+        "score": 0,
+        "evidence": []
+      }
+    },
+    {
+      "name": "10Clouds",
+      "category": "Software Development",
+      "location": "Warsaw, Poland",
+      "funding": null,
+      "description": "Custom software development company specializing in web and mobile applications, cloud solutions, and UI/UX design.",
+      "source_url": "https://www.startuphub.ai/startups/10clouds",
+      "source": "StartupHub.ai",
+      "relevance": {
+        "decision": "REVIEW",
+        "score": 0,
+        "evidence": []
+      }
+    },
+    {
+      "name": "10x Banking",
+      "category": "Fintech",
+      "location": "London, United Kingdom",
+      "funding": "$40.0M",
+      "description": "Provides core, cloud banking software for banks and financial institutions, enabling faster product launches and real-time customer service.",
+      "source_url": "https://www.startuphub.ai/startups/10x-banking",
+      "source": "StartupHub.ai",
+      "relevance": {
+        "decision": "REVIEW",
+        "score": 0,
+        "evidence": []
+      }
+    },
+    {
+      "name": "10x Science",
+      "category": "Biotechnology",
+      "location": "Cambridge, USA",
+      "funding": "$4.8M",
+      "description": "Empowering pharmaceutical researchers with advanced molecular understanding.",
+      "source_url": "https://www.startuphub.ai/startups/10x-science",
+      "source": "StartupHub.ai",
+      "relevance": {
+        "decision": "REVIEW",
+        "score": 0,
+        "evidence": []
+      }
+    },
+    {
+      "name": "11st",
+      "category": "E-commerce",
+      "location": "Seoul, South Korea",
+      "funding": "$448.0M",
+      "description": "South Korean e-commerce marketplace with 15M+ products",
+      "source_url": "https://www.startuphub.ai/startups/11st",
+      "source": "StartupHub.ai",
+      "relevance": {
+        "decision": "REVIEW",
+        "score": 0,
+        "evidence": []
+      }
+    },
+    {
+      "name": "12win",
+      "category": "12win คาสิโนออนไลน์ที่ดีที่สุดในไทย สล็อตออนไลน์ บาคาร่า เสือมังกร รูเล็ต หวยออนไลน์ โบนัสสูงสุด ฝาก-ถอนเร็ว บริการ 24 ชั่วโมง",
+      "location": null,
+      "funding": null,
+      "description": null,
+      "source_url": "https://www.startuphub.ai/startups/12win",
+      "source": "StartupHub.ai",
+      "relevance": {
+        "decision": "REVIEW",
+        "score": 0,
+        "evidence": []
+      }
+    },
+    {
+      "name": "141kg",
+      "category": "Leamington Spa, England",
+      "location": null,
+      "funding": null,
+      "description": "141kg connects personal trainers and their clients in one app. Trainers log and plan sessions live; clients log their own and track progress. Use it with a PT or solo.",
+      "source_url": "https://www.startuphub.ai/startups/141kg",
+      "source": "StartupHub.ai",
+      "relevance": {
+        "decision": "REVIEW",
+        "score": 0,
+        "evidence": []
+      }
+    },
+    {
+      "name": "180 Seguros",
+      "category": "InsurTech",
+      "location": "Mexico City, Mexico",
+      "funding": null,
+      "description": "An insurtech company providing innovative, accessible, and personalized insurance solutions for individuals and businesses.",
+      "source_url": "https://www.startuphub.ai/startups/180-seguros",
+      "source": "StartupHub.ai",
+      "relevance": {
+        "decision": "REVIEW",
+        "score": 0,
+        "evidence": []
+      }
+    },
+    {
+      "name": "1872",
+      "category": "Construction",
+      "location": "Cincinnati, United States",
+      "funding": "$15.0M",
+      "description": "1872 is a startup that has launched an autonomous steel fabrication factory model, aiming to revolutionize the construction industry by automating steel fabrication processes.",
+      "source_url": "https://www.startuphub.ai/startups/1872",
+      "source": "StartupHub.ai",
+      "relevance": {
+        "decision": "REVIEW",
+        "score": 0,
+        "evidence": []
+      }
+    },
+    {
+      "name": "1delta Labs",
+      "category": "London, United Kingdom",
+      "location": null,
+      "funding": null,
+      "description": "The full-stack R&D studio behind the 1delta protocol. We design, build, and operate DeFi products, from smart contracts to UI.",
+      "source_url": "https://www.startuphub.ai/startups/1delta-labs",
+      "source": "StartupHub.ai",
+      "relevance": {
+        "decision": "REVIEW",
+        "score": 0,
+        "evidence": []
+      }
+    },
+    {
+      "name": "1E Therapeutics",
+      "category": "Drug Development",
+      "location": "$120.0M",
+      "funding": null,
+      "description": "Drug development company creating first-in-class RNA-targeting therapeutics using a proprietary platform.",
+      "source_url": "https://www.startuphub.ai/startups/1e-therapeutics",
+      "source": "StartupHub.ai",
+      "relevance": {
+        "decision": "REVIEW",
+        "score": 0,
+        "evidence": []
+      }
+    },
+    {
+      "name": "1herosocial",
+      "category": "Vertical SaaS",
+      "location": null,
+      "funding": null,
+      "description": "Automates lead streams, cross-channel messaging, member billing, and instant AI replies for fitness studios.",
+      "source_url": "https://www.startuphub.ai/startups/1herosocial",
+      "source": "StartupHub.ai",
+      "relevance": {
+        "decision": "REVIEW",
+        "score": 0,
+        "evidence": []
+      }
+    },
+    {
+      "name": "1Komma5°",
+      "category": "Climate Tech",
+      "location": "Hamburg, Germany",
+      "funding": "$823.0M",
+      "description": "Digital platform for climate-positive energy solutions, integrating solar, storage, and charging.",
+      "source_url": "https://www.startuphub.ai/startups/1komma5",
+      "source": "StartupHub.ai",
+      "relevance": {
+        "decision": "REVIEW",
+        "score": 0,
+        "evidence": []
+      }
+    },
+    {
+      "name": "1MRobotics",
+      "category": "Robotics",
+      "location": "Tel Aviv, Israel",
+      "funding": "$25.0M",
+      "description": "Robotics for hyperlocal logistics, automating supply chains for agile and efficient commerce.",
+      "source_url": "https://www.startuphub.ai/startups/1mrobotics",
+      "source": "StartupHub.ai",
+      "relevance": {
+        "decision": "REVIEW",
+        "score": 0,
+        "evidence": []
+      }
+    },
+    {
+      "name": "1password",
+      "category": "Cybersecurity",
+      "location": "Toronto, Canada",
+      "funding": "$920.1M",
+      "description": "A secure and convenient password manager for individuals and businesses, offering strong security, cross-platform support, and secure sharing.",
+      "source_url": "https://www.startuphub.ai/startups/1password-partnerlinks-io",
+      "source": "StartupHub.ai",
+      "relevance": {
+        "decision": "REVIEW",
+        "score": 0,
+        "evidence": []
+      }
+    },
+    {
+      "name": "1touch.io",
+      "category": "Enterprise",
+      "location": "New York, United States",
+      "funding": "$33.0M",
+      "description": "1touch.io provides an automated data discovery and classification platform for sensitive information across enterprise networks.",
+      "source_url": "https://www.startuphub.ai/startups/1touch-io",
+      "source": "StartupHub.ai",
+      "relevance": {
+        "decision": "REVIEW",
+        "score": 0,
+        "evidence": []
+      }
+    },
+    {
+      "name": "1X Technologies",
+      "category": "Robotics",
+      "location": "Palo Alto, United States",
+      "funding": "$233.5M",
+      "description": "Developing general-purpose humanoid robots for home environments, focusing on safety and affordability.",
+      "source_url": "https://www.startuphub.ai/startups/1x-technologies",
+      "source": "StartupHub.ai",
+      "relevance": {
+        "decision": "REVIEW",
+        "score": 0,
+        "evidence": []
+      }
+    },
+    {
+      "name": "20th Labs",
+      "category": "Software Venture Studio",
+      "location": "London, United Kingdom",
+      "funding": null,
+      "description": "20th Labs Ltd is a UK-registered software venture studio. We design, develop, and sell our own web applications.",
+      "source_url": "https://www.startuphub.ai/startups/20th-labs",
+      "source": "StartupHub.ai",
+      "relevance": {
+        "decision": "REVIEW",
+        "score": 0,
+        "evidence": []
+      }
+    },
+    {
+      "name": "21Shares",
+      "category": "Fintech",
+      "location": "Zurich, Switzerland",
+      "funding": "$23.0M",
+      "description": "Leading issuer of crypto exchange-traded products (ETPs) globally.",
+      "source_url": "https://www.startuphub.ai/startups/21shares",
+      "source": "StartupHub.ai",
+      "relevance": {
+        "decision": "REVIEW",
+        "score": 0,
+        "evidence": []
+      }
+    },
+    {
+      "name": "23andMe",
+      "category": "Genomics",
+      "location": "Sunnyvale, United States",
+      "funding": "$305.0M",
+      "description": "Personalized genetic insights for health, ancestry, and wellness.",
+      "source_url": "https://www.startuphub.ai/startups/23andme",
+      "source": "StartupHub.ai",
+      "relevance": {
+        "decision": "REVIEW",
+        "score": 0,
+        "evidence": []
+      }
+    },
+    {
+      "name": "24gold",
+      "category": "Run your entire gold and jewellery business in one platform - billing, inventory, customers, accounts, and saving scheme fund management.",
+      "location": null,
+      "funding": null,
+      "description": null,
+      "source_url": "https://www.startuphub.ai/startups/24gold",
+      "source": "StartupHub.ai",
+      "relevance": {
+        "decision": "REVIEW",
+        "score": 0,
+        "evidence": []
+      }
+    },
+    {
+      "name": "24x7 WP Support",
+      "category": "Web Development",
+      "location": "Dallas, United States",
+      "funding": null,
+      "description": "Provides 24/7 WordPress support, maintenance, security, and development services for businesses.",
+      "source_url": "https://www.startuphub.ai/startups/24x7-wp-support",
+      "source": "StartupHub.ai",
+      "relevance": {
+        "decision": "REVIEW",
+        "score": 0,
+        "evidence": []
+      }
+    },
+    {
+      "name": "2ND",
+      "category": "Technology",
+      "location": "Tel Aviv, Israel",
+      "funding": "$1.5M",
+      "description": "2ND is a company that provides a platform for managing and sharing digital assets.",
+      "source_url": "https://www.startuphub.ai/startups/2nd",
+      "source": "StartupHub.ai",
+      "relevance": {
+        "decision": "REVIEW",
+        "score": 0,
+        "evidence": []
+      }
+    },
+    {
+      "name": "32 Biosciences",
+      "category": "Biotech",
+      "location": "San Diego, United States",
+      "funding": "$12.0M",
+      "description": "Develops novel therapeutic antibodies for oncology and autoimmune diseases.",
+      "source_url": "https://www.startuphub.ai/startups/32-biosciences",
+      "source": "StartupHub.ai",
+      "relevance": {
+        "decision": "REVIEW",
+        "score": 0,
+        "evidence": []
+      }
+    },
+    {
+      "name": "34north",
+      "category": "London, England",
+      "location": null,
+      "funding": null,
+      "description": null,
+      "source_url": "https://www.startuphub.ai/startups/34north",
+      "source": "StartupHub.ai",
+      "relevance": {
+        "decision": "REVIEW",
+        "score": 0,
+        "evidence": []
+      }
+    },
+    {
+      "name": "360Learning",
+      "category": "EdTech",
+      "location": "Paris, France",
+      "funding": "$265.5M",
+      "description": "Collaborative learning platform for employee training and development.",
+      "source_url": "https://www.startuphub.ai/startups/360learning",
+      "source": "StartupHub.ai",
+      "relevance": {
+        "decision": "REVIEW",
+        "score": 0,
+        "evidence": []
+      }
+    },
+    {
+      "name": "365 Data Centers",
+      "category": "Data Center Infrastructure",
+      "location": "Norwalk, United States",
+      "funding": "$16.0M",
+      "description": "Network-centric colocation and Infrastructure-as-a-Service provider with a national footprint.",
+      "source_url": "https://www.startuphub.ai/startups/365-data-centers",
+      "source": "StartupHub.ai",
+      "relevance": {
+        "decision": "REVIEW",
+        "score": 0,
+        "evidence": []
+      }
+    },
+    {
+      "name": "365 Rota",
+      "category": "Workforce Management",
+      "location": "Birmingham, United Kingdom",
+      "funding": null,
+      "description": "365 rota provides a secure access portal for managing shifts and operations within the Deans-Group management system.",
+      "source_url": "https://www.startuphub.ai/startups/365-rota",
+      "source": "StartupHub.ai",
+      "relevance": {
+        "decision": "REVIEW",
+        "score": 0,
+        "evidence": []
+      }
+    },
+    {
+      "name": "365arc",
+      "category": "Leeds, England",
+      "location": null,
+      "funding": null,
+      "description": "365ARC is your hub for missions, trackers, challenges and a global community built to push you beyond your limits — every single day.",
+      "source_url": "https://www.startuphub.ai/startups/365arc",
+      "source": "StartupHub.ai",
+      "relevance": {
+        "decision": "REVIEW",
+        "score": 0,
+        "evidence": []
+      }
+    },
+    {
+      "name": "365Scores",
+      "category": "Sports",
+      "location": "Tel Aviv, Israel",
+      "funding": "$6.7M",
+      "description": "365Scores is a global sports technology hub providing real-time results, in-depth stats, original content, and customized news feeds.",
+      "source_url": "https://www.startuphub.ai/startups/365scores",
+      "source": "StartupHub.ai",
+      "relevance": {
+        "decision": "REVIEW",
+        "score": 0,
+        "evidence": []
+      }
+    },
+    {
+      "name": "36Kr",
+      "category": "Media",
+      "location": "Beijing, China",
+      "funding": "$155.0M",
+      "description": "Chinese media and data platform for technology, startups, and investors.",
+      "source_url": "https://www.startuphub.ai/startups/36kr",
+      "source": "StartupHub.ai",
+      "relevance": {
+        "decision": "REVIEW",
+        "score": 0,
+        "evidence": []
+      }
+    },
+    {
+      "name": "3D Battery",
+      "category": "Battery",
+      "location": "Tel Aviv, Israel",
+      "funding": "$13.5M",
+      "description": "Develops advanced 3D battery architectures to enhance energy density, safety, and lifespan for EVs and electronics.",
+      "source_url": "https://www.startuphub.ai/startups/3d-battery",
+      "source": "StartupHub.ai",
+      "relevance": {
+        "decision": "REVIEW",
+        "score": 0,
+        "evidence": []
+      }
+    },
+    {
+      "name": "3D Robotics",
+      "category": "Drone Technology",
+      "location": "Berkeley, USA",
+      "funding": "$133.0M",
+      "description": "American company developing enterprise drone software for construction, engineering, and mining firms.",
+      "source_url": "https://www.startuphub.ai/startups/3d-robotics",
+      "source": "StartupHub.ai",
+      "relevance": {
+        "decision": "REVIEW",
+        "score": 0,
+        "evidence": []
+      }
+    },
+    {
+      "name": "3D Signals",
+      "category": "Industrial",
+      "location": "Tel Aviv, Israel",
+      "funding": "$23.5M",
+      "description": "Industrial IoT platform for real-time production floor visibility and productivity enhancement.",
+      "source_url": "https://www.startuphub.ai/startups/3d-signals",
+      "source": "StartupHub.ai",
+      "relevance": {
+        "decision": "REVIEW",
+        "score": 0,
+        "evidence": []
+      }
+    },
+    {
+      "name": "3dfy Labs",
+      "category": "3D Scanning",
+      "location": "Toronto, Canada",
+      "funding": null,
+      "description": "3dfy Labs is a startup focused on 3D scanning and digital asset creation.",
+      "source_url": "https://www.startuphub.ai/startups/3dfy-labs",
+      "source": "StartupHub.ai",
+      "relevance": {
+        "decision": "REVIEW",
+        "score": 0,
+        "evidence": []
+      }
+    },
+    {
+      "name": "3s Data",
+      "category": "Construction Tech",
+      "location": "Salford, United Kingdom",
+      "funding": null,
+      "description": "Verified construction product data via GS1 standards for enhanced product information management.",
+      "source_url": "https://www.startuphub.ai/startups/3s-data",
+      "source": "StartupHub.ai",
+      "relevance": {
+        "decision": "REVIEW",
+        "score": 0,
+        "evidence": []
+      }
+    },
+    {
+      "name": "4 Guys Digital",
+      "category": "Stoke-On-Trent, England",
+      "location": null,
+      "funding": null,
+      "description": "creative Caution 4 guys digital We are a bold creative agency crafting unique brands, digital experiences, and strategies that make impact. let&#039;s get started Facebook...",
+      "source_url": "https://www.startuphub.ai/startups/4-guys-digital",
+      "source": "StartupHub.ai",
+      "relevance": {
+        "decision": "REVIEW",
+        "score": 0,
+        "evidence": []
+      }
+    },
+    {
+      "name": "42dot",
+      "category": "Seoul, South Korea",
+      "location": "$775.5M",
+      "funding": null,
+      "description": "Pioneering frictionless transportation services with autonomous driving, connected vehicles, and smart city infrastructure.",
+      "source_url": "https://www.startuphub.ai/startups/42dot",
+      "source": "StartupHub.ai",
+      "relevance": {
+        "decision": "REVIEW",
+        "score": 0,
+        "evidence": []
+      }
+    },
+    {
+      "name": "45-8 Energy",
+      "category": "Energy",
+      "location": "Metz, France",
+      "funding": "$7.1M",
+      "description": "First European company dedicated to exploration and production of natural hydrogen and helium from subsurface reservoirs.",
+      "source_url": "https://www.startuphub.ai/startups/45-8-energy",
+      "source": "StartupHub.ai",
+      "relevance": {
+        "decision": "REVIEW",
+        "score": 0,
+        "evidence": []
+      }
+    },
+    {
+      "name": "48x",
+      "category": "Weybridge, England",
+      "location": null,
+      "funding": null,
+      "description": "48x.com - 48x apk - 48x download - 48x - oferece os melhores jogos quentes 🎰 - Melhores Slots Online do Brasil",
+      "source_url": "https://www.startuphub.ai/startups/48x",
+      "source": "StartupHub.ai",
+      "relevance": {
+        "decision": "REVIEW",
+        "score": 0,
+        "evidence": []
+      }
+    },
+    {
+      "name": "4D Path",
+      "category": "Biotechnology",
+      "location": "Newton, USA",
+      "funding": "$17.4M",
+      "description": "Personalizing cancer care through a novel, physics-informed approach to predict tumor response to therapy.",
+      "source_url": "https://www.startuphub.ai/startups/4d-path",
+      "source": "StartupHub.ai",
+      "relevance": {
+        "decision": "REVIEW",
+        "score": 0,
+        "evidence": []
+      }
+    },
+    {
+      "name": "4D VIEW SOLUTIONS SAS",
+      "category": "Volumetric Video",
+      "location": "Grenoble, France",
+      "funding": null,
+      "description": "Provides an end-to-end volumetric video ecosystem for capturing, building, and delivering immersive content for various applications.",
+      "source_url": "https://www.startuphub.ai/startups/4d-view-solutions-sas",
+      "source": "StartupHub.ai",
+      "relevance": {
+        "decision": "REVIEW",
+        "score": 0,
+        "evidence": []
+      }
+    },
+    {
+      "name": "4DViews",
+      "category": "Volumetric Video",
+      "location": "Grenoble, France",
+      "funding": null,
+      "description": "4Dviews provides an end-to-end volumetric video ecosystem, including capture systems, editing software, and a creator platform, for immersive XR experiences.",
+      "source_url": "https://www.startuphub.ai/startups/4dviews",
+      "source": "StartupHub.ai",
+      "relevance": {
+        "decision": "REVIEW",
+        "score": 0,
+        "evidence": []
+      }
+    },
+    {
+      "name": "4M Analytics",
+      "category": "Data",
+      "location": "San Francisco, United States",
+      "funding": "$41.0M",
+      "description": "Digitized map of subsurface and above-ground utilities for infrastructure planning and construction.",
+      "source_url": "https://www.startuphub.ai/startups/4m-analytics",
+      "source": "StartupHub.ai",
+      "relevance": {
+        "decision": "REVIEW",
+        "score": 0,
+        "evidence": []
+      }
+    },
+    {
+      "name": "4share",
+      "category": "File Sharing",
+      "location": null,
+      "funding": null,
+      "description": "A platform for secure and collaborative file sharing and storage.",
+      "source_url": "https://www.startuphub.ai/startups/4share",
+      "source": "StartupHub.ai",
+      "relevance": {
+        "decision": "REVIEW",
+        "score": 0,
+        "evidence": []
+      }
+    },
+    {
+      "name": "5 Fish",
+      "category": "Investment Management",
+      "location": "Chicago, United States",
+      "funding": null,
+      "description": "Woman-owned Chicago investment and consulting firm offering strategic advisory, community impact, and mindful growth.",
+      "source_url": "https://www.startuphub.ai/startups/5-fish",
+      "source": "StartupHub.ai",
+      "relevance": {
+        "decision": "REVIEW",
+        "score": 0,
+        "evidence": []
+      }
+    },
+    {
+      "name": "519 Cars",
+      "category": "Used Car Dealership",
+      "location": "St. Thomas, Canada",
+      "funding": null,
+      "description": "Used car dealership in St. Thomas, Ontario, offering a wide selection of pre-owned vehicles and financing options.",
+      "source_url": "https://www.startuphub.ai/startups/519cars",
+      "source": "StartupHub.ai",
+      "relevance": {
+        "decision": "REVIEW",
+        "score": 0,
+        "evidence": []
+      }
+    },
+    {
+      "name": "51Talk",
+      "category": "EdTech",
+      "location": "Beijing, China",
+      "funding": "$190.0M",
+      "description": "Online English education platform connecting Chinese students with Filipino teachers.",
+      "source_url": "https://www.startuphub.ai/startups/51talk",
+      "source": "StartupHub.ai",
+      "relevance": {
+        "decision": "REVIEW",
+        "score": 0,
+        "evidence": []
+      }
+    },
+    {
+      "name": "5kcircle",
+      "category": "London, United Kingdom",
+      "location": null,
+      "funding": null,
+      "description": "5KCircle is the private room around a star. Five thousand members worldwide get direct messages, video calls, merchandise, competitions, polls, Q&amp;A and an exclusive feed — by invitation of the sta",
+      "source_url": "https://www.startuphub.ai/startups/5kcircle",
+      "source": "StartupHub.ai",
+      "relevance": {
+        "decision": "REVIEW",
+        "score": 0,
+        "evidence": []
+      }
+    },
+    {
+      "name": "6over6 Vision",
+      "category": "Healthcare",
+      "location": "Tel Aviv, Israel",
+      "funding": "$15.5M",
+      "description": "6over6 Vision develops GlassesOn, a smartphone app that provides essential optometry tools for accessible vision care.",
+      "source_url": "https://www.startuphub.ai/startups/6over6-vision",
+      "source": "StartupHub.ai",
+      "relevance": {
+        "decision": "REVIEW",
+        "score": 0,
+        "evidence": []
+      }
+    },
+    {
+      "name": "701x",
+      "category": "Agriculture",
+      "location": "Fargo, USA",
+      "funding": "$20.0M",
+      "description": "Beef cattle technology company",
+      "source_url": "https://www.startuphub.ai/startups/701x",
+      "source": "StartupHub.ai",
+      "relevance": {
+        "decision": "REVIEW",
+        "score": 0,
+        "evidence": []
+      }
+    },
+    {
+      "name": "770 Health Envelope",
+      "category": "Project Finance",
+      "location": "פתח תקווה, Israel",
+      "funding": null,
+      "description": "Connecting capital, infrastructure and opportunity across Somaliland. Project finance, insurance, energy, water, ports and technology — built to institutional standards.",
+      "source_url": "https://www.startuphub.ai/startups/770-health-envelope",
+      "source": "StartupHub.ai",
+      "relevance": {
+        "decision": "REVIEW",
+        "score": 0,
+        "evidence": []
+      }
+    }
+  ]
+}

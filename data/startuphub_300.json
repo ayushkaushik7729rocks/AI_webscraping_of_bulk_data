@@ -1,0 +1,2702 @@
+[
+  {
+    "name": "01Health",
+    "category": "HealthTech",
+    "location": "London, United Kingdom",
+    "funding": "$15.0M",
+    "description": "A healthcare technology company enabling local clinics to provide specialist healthcare services.",
+    "source_url": "https://www.startuphub.ai/startups/01health",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "09bbe",
+    "category": "Online Gaming",
+    "location": null,
+    "funding": null,
+    "description": "Online casino and sports betting platform for players in Bangladesh, offering cricket betting, live casino, and slots with instant bKash & Nagad deposits.",
+    "source_url": "https://www.startuphub.ai/startups/09bbe",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "0G Labs",
+    "category": "AI",
+    "location": "San Francisco, United States",
+    "funding": "$75.0M",
+    "description": "Building the world's first decentralized AI operating system for scalable, verifiable, and open AI.",
+    "source_url": "https://www.startuphub.ai/startups/0g-labs",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "0kvip",
+    "category": "0kvip là nền tảng cá cược trực tuyến uy tín số 1 Việt Nam, cung cấp cá cược thể thao, casino trực tuyến, đá gà, nổ hũ với tỷ lệ cược hấp dẫn và hỗ trợ 24/7.",
+    "location": null,
+    "funding": null,
+    "description": null,
+    "source_url": "https://www.startuphub.ai/startups/0kvip",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "0mcp",
+    "category": "API Platform",
+    "location": null,
+    "funding": null,
+    "description": "Convert any upstream API into a hosted MCP server. Import OpenAPI specs, configure tools, and deploy instantly.",
+    "source_url": "https://www.startuphub.ai/startups/0mcp",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "0sec",
+    "category": "Cybersecurity",
+    "location": null,
+    "funding": null,
+    "description": "An applied cybersecurity research lab using AI agents to autonomously discover, exploit, and verify software vulnerabilities.",
+    "source_url": "https://www.startuphub.ai/startups/0sec",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "0to9",
+    "category": "EdTech",
+    "location": "Tel Aviv, Israel",
+    "funding": "$101.5M",
+    "description": "We are a bank for entrepreneurship – an European fintech venture builder and investor. Built by, and for company builders. We provide infrastructure for fintech entrepreneurs ready to start and scale",
+    "source_url": "https://www.startuphub.ai/startups/0to9",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "0xWork",
+    "category": "Web3",
+    "location": null,
+    "funding": null,
+    "description": "Decentralized marketplace for autonomous AI agents to find work, build reputation, and earn USDC.",
+    "source_url": "https://www.startuphub.ai/startups/0xwork",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "1 Mod",
+    "category": "London, United Kingdom",
+    "location": null,
+    "funding": null,
+    "description": "1Mod is a free PC game mods platform with 109,000+ mods for Black Myth: Wukong, Cyberpunk 2077, GTA V, The Witcher 3, Sekiro and more. One-click install, smart mod manager, trainers and accelerator to",
+    "source_url": "https://www.startuphub.ai/startups/1-mod",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "1001",
+    "category": "Agentic AI",
+    "location": "Tel Aviv, Israel",
+    "funding": "$30.5M",
+    "description": "1001 is the AI-powered intelligence layer helping enterprises transform decisions, orchestrate actions, and accelerate outcomes.",
+    "source_url": "https://www.startuphub.ai/startups/1001",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "1001threadsofmizan",
+    "category": "EdTech",
+    "location": null,
+    "funding": null,
+    "description": null,
+    "source_url": "https://www.startuphub.ai/startups/1001threadsofmizan",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "100daysofhope",
+    "category": "A practical guide to listening better, acting faster and turning promise into progress. Hope must be designed into leadership. Join the launch list.",
+    "location": null,
+    "funding": null,
+    "description": null,
+    "source_url": "https://www.startuphub.ai/startups/100daysofhope",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "10Clouds",
+    "category": "Software Development",
+    "location": "Warsaw, Poland",
+    "funding": null,
+    "description": "Custom software development company specializing in web and mobile applications, cloud solutions, and UI/UX design.",
+    "source_url": "https://www.startuphub.ai/startups/10clouds",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "10Web.io",
+    "category": "AI Website Builder",
+    "location": "Tel Aviv, Israel",
+    "funding": null,
+    "description": "AI-powered platform for building, hosting, and managing WordPress websites with an AI Website Builder and AI Co-Pilot.",
+    "source_url": "https://www.startuphub.ai/startups/10web-io",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "10x Banking",
+    "category": "Fintech",
+    "location": "London, United Kingdom",
+    "funding": "$40.0M",
+    "description": "Provides core, cloud banking software for banks and financial institutions, enabling faster product launches and real-time customer service.",
+    "source_url": "https://www.startuphub.ai/startups/10x-banking",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "10x Science",
+    "category": "Biotechnology",
+    "location": "Cambridge, USA",
+    "funding": "$4.8M",
+    "description": "Empowering pharmaceutical researchers with advanced molecular understanding.",
+    "source_url": "https://www.startuphub.ai/startups/10x-science",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "10xreach",
+    "category": "Agentic AI",
+    "location": null,
+    "funding": null,
+    "description": "Agentic AI SDR platform by Innovatix",
+    "source_url": "https://www.startuphub.ai/startups/10xreach",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "11st",
+    "category": "E-commerce",
+    "location": "Seoul, South Korea",
+    "funding": "$448.0M",
+    "description": "South Korean e-commerce marketplace with 15M+ products",
+    "source_url": "https://www.startuphub.ai/startups/11st",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "11x",
+    "category": "Agentic AI",
+    "location": "San Francisco, United States",
+    "funding": null,
+    "description": "11x builds autonomous digital workers powered by AI to revolutionize sales, RevOps, and Go-to-Market teams.",
+    "source_url": "https://www.startuphub.ai/startups/11x",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "123every",
+    "category": "Text, image, audio, music and video from every major AI model. Generate in the studio or call all of them from a single API.",
+    "location": null,
+    "funding": null,
+    "description": null,
+    "source_url": "https://www.startuphub.ai/startups/123every",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "12win",
+    "category": "12win คาสิโนออนไลน์ที่ดีที่สุดในไทย สล็อตออนไลน์ บาคาร่า เสือมังกร รูเล็ต หวยออนไลน์ โบนัสสูงสุด ฝาก-ถอนเร็ว บริการ 24 ชั่วโมง",
+    "location": null,
+    "funding": null,
+    "description": null,
+    "source_url": "https://www.startuphub.ai/startups/12win",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "14.ai",
+    "category": "Customer Support",
+    "location": "San Francisco, USA",
+    "funding": "$500K",
+    "description": "An AI-native customer support agency that replaces legacy customer support teams.",
+    "source_url": "https://www.startuphub.ai/startups/14ai",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "141kg",
+    "category": "Leamington Spa, England",
+    "location": null,
+    "funding": null,
+    "description": "141kg connects personal trainers and their clients in one app. Trainers log and plan sessions live; clients log their own and track progress. Use it with a PT or solo.",
+    "source_url": "https://www.startuphub.ai/startups/141kg",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "15tahun",
+    "category": "Online Gambling",
+    "location": null,
+    "funding": null,
+    "description": "15TAHUN is an online platform offering a wide range of gambling games including togel, slot, bola, and casino games.",
+    "source_url": "https://www.startuphub.ai/startups/15tahun",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "1789 Capital",
+    "category": "Venture Capital",
+    "location": "Palm Beach, United States",
+    "funding": "$150.0M",
+    "description": "Growth equity investment firm focused on late-stage U.S. technology, defense, and real estate companies aligning with 'patriotic capitalism' and 'America First' values.",
+    "source_url": "https://www.startuphub.ai/startups/1789-capital",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "180 Seguros",
+    "category": "InsurTech",
+    "location": "Mexico City, Mexico",
+    "funding": null,
+    "description": "An insurtech company providing innovative, accessible, and personalized insurance solutions for individuals and businesses.",
+    "source_url": "https://www.startuphub.ai/startups/180-seguros",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "1872",
+    "category": "Construction",
+    "location": "Cincinnati, United States",
+    "funding": "$15.0M",
+    "description": "1872 is a startup that has launched an autonomous steel fabrication factory model, aiming to revolutionize the construction industry by automating steel fabrication processes.",
+    "source_url": "https://www.startuphub.ai/startups/1872",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "1877 Capital",
+    "category": "Venture Capital",
+    "location": "London, United Kingdom",
+    "funding": null,
+    "description": "Building the companies that connect the Caribbean and its global diaspora.",
+    "source_url": "https://www.startuphub.ai/startups/1877-capital",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "1agi",
+    "category": "Frontier AI Lab",
+    "location": null,
+    "funding": null,
+    "description": "Launching soon with exciting technology, offering updates and newsletter sign-ups.",
+    "source_url": "https://www.startuphub.ai/startups/1agi",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "1cap",
+    "category": "Fintech",
+    "location": null,
+    "funding": null,
+    "description": "AI-powered debt portfolio analysis and management platform.",
+    "source_url": "https://www.startuphub.ai/startups/1cap",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "1delta Labs",
+    "category": "London, United Kingdom",
+    "location": null,
+    "funding": null,
+    "description": "The full-stack R&D studio behind the 1delta protocol. We design, build, and operate DeFi products, from smart contracts to UI.",
+    "source_url": "https://www.startuphub.ai/startups/1delta-labs",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "1E Therapeutics",
+    "category": "Drug Development",
+    "location": "$120.0M",
+    "funding": null,
+    "description": "Drug development company creating first-in-class RNA-targeting therapeutics using a proprietary platform.",
+    "source_url": "https://www.startuphub.ai/startups/1e-therapeutics",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "1Fort",
+    "category": "InsurTech",
+    "location": "New York, United States",
+    "funding": "$26.9M",
+    "description": "AI platform automating business insurance for brokers, increasing efficiency and bind rates.",
+    "source_url": "https://www.startuphub.ai/startups/1fort",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "1herosocial",
+    "category": "Vertical SaaS",
+    "location": null,
+    "funding": null,
+    "description": "Automates lead streams, cross-channel messaging, member billing, and instant AI replies for fitness studios.",
+    "source_url": "https://www.startuphub.ai/startups/1herosocial",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "1Komma5°",
+    "category": "Climate Tech",
+    "location": "Hamburg, Germany",
+    "funding": "$823.0M",
+    "description": "Digital platform for climate-positive energy solutions, integrating solar, storage, and charging.",
+    "source_url": "https://www.startuphub.ai/startups/1komma5",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "1MRobotics",
+    "category": "Robotics",
+    "location": "Tel Aviv, Israel",
+    "funding": "$25.0M",
+    "description": "Robotics for hyperlocal logistics, automating supply chains for agile and efficient commerce.",
+    "source_url": "https://www.startuphub.ai/startups/1mrobotics",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "1password",
+    "category": "Cybersecurity",
+    "location": "Toronto, Canada",
+    "funding": "$920.1M",
+    "description": "A secure and convenient password manager for individuals and businesses, offering strong security, cross-platform support, and secure sharing.",
+    "source_url": "https://www.startuphub.ai/startups/1password-partnerlinks-io",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "1Password",
+    "category": "Cybersecurity",
+    "location": "Toronto, Canada",
+    "funding": "$1.2B",
+    "description": "Securely stores and manages passwords, secrets, and access for individuals, businesses, and AI agents.",
+    "source_url": "https://www.startuphub.ai/startups/1password",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "1touch.io",
+    "category": "Enterprise",
+    "location": "New York, United States",
+    "funding": "$33.0M",
+    "description": "1touch.io provides an automated data discovery and classification platform for sensitive information across enterprise networks.",
+    "source_url": "https://www.startuphub.ai/startups/1touch-io",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "1X Technologies",
+    "category": "Robotics",
+    "location": "Palo Alto, United States",
+    "funding": "$233.5M",
+    "description": "Developing general-purpose humanoid robots for home environments, focusing on safety and affordability.",
+    "source_url": "https://www.startuphub.ai/startups/1x-technologies",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "20th Labs",
+    "category": "Software Venture Studio",
+    "location": "London, United Kingdom",
+    "funding": null,
+    "description": "20th Labs Ltd is a UK-registered software venture studio. We design, develop, and sell our own web applications.",
+    "source_url": "https://www.startuphub.ai/startups/20th-labs",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "2150",
+    "category": "Climate Tech",
+    "location": "London, United Kingdom",
+    "funding": "$63.0M",
+    "description": "Climate tech venture capital firm investing in technologies that reshape cities for sustainability.",
+    "source_url": "https://www.startuphub.ai/startups/2150",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "21Shares",
+    "category": "Fintech",
+    "location": "Zurich, Switzerland",
+    "funding": "$23.0M",
+    "description": "Leading issuer of crypto exchange-traded products (ETPs) globally.",
+    "source_url": "https://www.startuphub.ai/startups/21shares",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "21st.dev",
+    "category": "AI",
+    "location": "San Francisco, United States",
+    "funding": "$500K",
+    "description": "AI-powered design tools and workflows.",
+    "source_url": "https://www.startuphub.ai/startups/21st-dev",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "23andMe",
+    "category": "Genomics",
+    "location": "Sunnyvale, United States",
+    "funding": "$305.0M",
+    "description": "Personalized genetic insights for health, ancestry, and wellness.",
+    "source_url": "https://www.startuphub.ai/startups/23andme",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "23king",
+    "category": "Online Betting",
+    "location": null,
+    "funding": null,
+    "description": "23king is an online betting platform for Vietnamese users, offering slots, live casino, cockfighting, and more, with fast deposits and withdrawals.",
+    "source_url": "https://www.startuphub.ai/startups/23king",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "24gold",
+    "category": "Run your entire gold and jewellery business in one platform - billing, inventory, customers, accounts, and saving scheme fund management.",
+    "location": null,
+    "funding": null,
+    "description": null,
+    "source_url": "https://www.startuphub.ai/startups/24gold",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "24unet",
+    "category": "Partner with 24uNet, a leading IT solutions provider offering modernized IT strategies and CMMC consulting for small businesses backed by AI-driven security solutions and personalized 24/7 support. Se",
+    "location": null,
+    "funding": null,
+    "description": null,
+    "source_url": "https://www.startuphub.ai/startups/24unet",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "24x7 WP Support",
+    "category": "Web Development",
+    "location": "Dallas, United States",
+    "funding": null,
+    "description": "Provides 24/7 WordPress support, maintenance, security, and development services for businesses.",
+    "source_url": "https://www.startuphub.ai/startups/24x7-wp-support",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "28vin",
+    "category": "28vin là nhà cái cá cược trực tuyến uy tín tại Việt Nam, cung cấp cá độ thể thao, casino trực tuyến, đá gà, nổ hũ với tỷ lệ cược cao và thanh toán nhanh chóng.",
+    "location": null,
+    "funding": null,
+    "description": null,
+    "source_url": "https://www.startuphub.ai/startups/28vin",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "2ND",
+    "category": "Technology",
+    "location": "Tel Aviv, Israel",
+    "funding": "$1.5M",
+    "description": "2ND is a company that provides a platform for managing and sharing digital assets.",
+    "source_url": "https://www.startuphub.ai/startups/2nd",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "32 Biosciences",
+    "category": "Biotech",
+    "location": "San Diego, United States",
+    "funding": "$12.0M",
+    "description": "Develops novel therapeutic antibodies for oncology and autoimmune diseases.",
+    "source_url": "https://www.startuphub.ai/startups/32-biosciences",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "33bdg",
+    "category": "Online Betting",
+    "location": null,
+    "funding": null,
+    "description": "An online betting and casino platform designed for players in Bangladesh, offering sports betting, live casino, and crash games.",
+    "source_url": "https://www.startuphub.ai/startups/33bdg",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "34north",
+    "category": "London, England",
+    "location": null,
+    "funding": null,
+    "description": null,
+    "source_url": "https://www.startuphub.ai/startups/34north",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "360factors",
+    "category": "AI",
+    "location": "Austin, United States",
+    "funding": "$2.0M",
+    "description": "AI-powered risk and compliance intelligence platform for banking and financial services organizations.",
+    "source_url": "https://www.startuphub.ai/startups/360factors",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "360Learning",
+    "category": "EdTech",
+    "location": "Paris, France",
+    "funding": "$265.5M",
+    "description": "Collaborative learning platform for employee training and development.",
+    "source_url": "https://www.startuphub.ai/startups/360learning",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "365 Data Centers",
+    "category": "Data Center Infrastructure",
+    "location": "Norwalk, United States",
+    "funding": "$16.0M",
+    "description": "Network-centric colocation and Infrastructure-as-a-Service provider with a national footprint.",
+    "source_url": "https://www.startuphub.ai/startups/365-data-centers",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "365 Rota",
+    "category": "Workforce Management",
+    "location": "Birmingham, United Kingdom",
+    "funding": null,
+    "description": "365 rota provides a secure access portal for managing shifts and operations within the Deans-Group management system.",
+    "source_url": "https://www.startuphub.ai/startups/365-rota",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "365arc",
+    "category": "Leeds, England",
+    "location": null,
+    "funding": null,
+    "description": "365ARC is your hub for missions, trackers, challenges and a global community built to push you beyond your limits — every single day.",
+    "source_url": "https://www.startuphub.ai/startups/365arc",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "365Scores",
+    "category": "Sports",
+    "location": "Tel Aviv, Israel",
+    "funding": "$6.7M",
+    "description": "365Scores is a global sports technology hub providing real-time results, in-depth stats, original content, and customized news feeds.",
+    "source_url": "https://www.startuphub.ai/startups/365scores",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "36Kr",
+    "category": "Media",
+    "location": "Beijing, China",
+    "funding": "$155.0M",
+    "description": "Chinese media and data platform for technology, startups, and investors.",
+    "source_url": "https://www.startuphub.ai/startups/36kr",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "3D Battery",
+    "category": "Battery",
+    "location": "Tel Aviv, Israel",
+    "funding": "$13.5M",
+    "description": "Develops advanced 3D battery architectures to enhance energy density, safety, and lifespan for EVs and electronics.",
+    "source_url": "https://www.startuphub.ai/startups/3d-battery",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "3D Robotics",
+    "category": "Drone Technology",
+    "location": "Berkeley, USA",
+    "funding": "$133.0M",
+    "description": "American company developing enterprise drone software for construction, engineering, and mining firms.",
+    "source_url": "https://www.startuphub.ai/startups/3d-robotics",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "3D Signals",
+    "category": "Industrial",
+    "location": "Tel Aviv, Israel",
+    "funding": "$23.5M",
+    "description": "Industrial IoT platform for real-time production floor visibility and productivity enhancement.",
+    "source_url": "https://www.startuphub.ai/startups/3d-signals",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "3dfy Labs",
+    "category": "3D Scanning",
+    "location": "Toronto, Canada",
+    "funding": null,
+    "description": "3dfy Labs is a startup focused on 3D scanning and digital asset creation.",
+    "source_url": "https://www.startuphub.ai/startups/3dfy-labs",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "3s Data",
+    "category": "Construction Tech",
+    "location": "Salford, United Kingdom",
+    "funding": null,
+    "description": "Verified construction product data via GS1 standards for enhanced product information management.",
+    "source_url": "https://www.startuphub.ai/startups/3s-data",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "4 Guys Digital",
+    "category": "Stoke-On-Trent, England",
+    "location": null,
+    "funding": null,
+    "description": "creative Caution 4 guys digital We are a bold creative agency crafting unique brands, digital experiences, and strategies that make impact. let&#039;s get started Facebook...",
+    "source_url": "https://www.startuphub.ai/startups/4-guys-digital",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "40days",
+    "category": "Conversational AI",
+    "location": null,
+    "funding": null,
+    "description": "A quiet space to bring your questions, struggles, prayers, and everyday conversation to a compassionate companion.",
+    "source_url": "https://www.startuphub.ai/startups/40days",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "40Seas",
+    "category": "Fintech",
+    "location": "Tel Aviv, Israel",
+    "funding": "$117.0M",
+    "description": "Digital trade finance platform using AI for flexible B2B payments in global supply chains.",
+    "source_url": "https://www.startuphub.ai/startups/fintoria-technologies",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "42dot",
+    "category": "Seoul, South Korea",
+    "location": "$775.5M",
+    "funding": null,
+    "description": "Pioneering frictionless transportation services with autonomous driving, connected vehicles, and smart city infrastructure.",
+    "source_url": "https://www.startuphub.ai/startups/42dot",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "44pixels",
+    "category": "Mobile",
+    "location": "London, United Kingdom",
+    "funding": null,
+    "description": "London-based mobile app studio building beautiful, engaging experiences with AI.",
+    "source_url": "https://www.startuphub.ai/startups/44pixels",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "45-8 Energy",
+    "category": "Energy",
+    "location": "Metz, France",
+    "funding": "$7.1M",
+    "description": "First European company dedicated to exploration and production of natural hydrogen and helium from subsurface reservoirs.",
+    "source_url": "https://www.startuphub.ai/startups/45-8-energy",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "48x",
+    "category": "Weybridge, England",
+    "location": null,
+    "funding": null,
+    "description": "48x.com - 48x apk - 48x download - 48x - oferece os melhores jogos quentes 🎰 - Melhores Slots Online do Brasil",
+    "source_url": "https://www.startuphub.ai/startups/48x",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "4D Path",
+    "category": "Biotechnology",
+    "location": "Newton, USA",
+    "funding": "$17.4M",
+    "description": "Personalizing cancer care through a novel, physics-informed approach to predict tumor response to therapy.",
+    "source_url": "https://www.startuphub.ai/startups/4d-path",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "4D VIEW SOLUTIONS SAS",
+    "category": "Volumetric Video",
+    "location": "Grenoble, France",
+    "funding": null,
+    "description": "Provides an end-to-end volumetric video ecosystem for capturing, building, and delivering immersive content for various applications.",
+    "source_url": "https://www.startuphub.ai/startups/4d-view-solutions-sas",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "4DViews",
+    "category": "Volumetric Video",
+    "location": "Grenoble, France",
+    "funding": null,
+    "description": "4Dviews provides an end-to-end volumetric video ecosystem, including capture systems, editing software, and a creator platform, for immersive XR experiences.",
+    "source_url": "https://www.startuphub.ai/startups/4dviews",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "4M Analytics",
+    "category": "Data",
+    "location": "San Francisco, United States",
+    "funding": "$41.0M",
+    "description": "Digitized map of subsurface and above-ground utilities for infrastructure planning and construction.",
+    "source_url": "https://www.startuphub.ai/startups/4m-analytics",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "4share",
+    "category": "File Sharing",
+    "location": null,
+    "funding": null,
+    "description": "A platform for secure and collaborative file sharing and storage.",
+    "source_url": "https://www.startuphub.ai/startups/4share",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "5 Fish",
+    "category": "Investment Management",
+    "location": "Chicago, United States",
+    "funding": null,
+    "description": "Woman-owned Chicago investment and consulting firm offering strategic advisory, community impact, and mindful growth.",
+    "source_url": "https://www.startuphub.ai/startups/5-fish",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "5(c) Capital",
+    "category": "Venture Capital",
+    "location": "San Francisco, USA",
+    "funding": "$63.0M",
+    "description": "Venture capital firm backing startups in the prediction markets category.",
+    "source_url": "https://www.startuphub.ai/startups/5c-capital",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "500 Startups",
+    "category": "Venture Capital",
+    "location": "San Francisco, United States",
+    "funding": "$140.0M",
+    "description": "Global venture capital firm investing in ambitious founders building fast-growing technology companies.",
+    "source_url": "https://www.startuphub.ai/startups/500-startups",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "519 Cars",
+    "category": "Used Car Dealership",
+    "location": "St. Thomas, Canada",
+    "funding": null,
+    "description": "Used car dealership in St. Thomas, Ontario, offering a wide selection of pre-owned vehicles and financing options.",
+    "source_url": "https://www.startuphub.ai/startups/519cars",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "51Talk",
+    "category": "EdTech",
+    "location": "Beijing, China",
+    "funding": "$190.0M",
+    "description": "Online English education platform connecting Chinese students with Filipino teachers.",
+    "source_url": "https://www.startuphub.ai/startups/51talk",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "53win",
+    "category": "53win cung cấp nền tảng cá cược thể thao, casino trực tuyến, đá gà và xổ số hấp dẫn, mang đến trải nghiệm uy tín và tiện lợi cho người chơi Việt.",
+    "location": null,
+    "funding": null,
+    "description": null,
+    "source_url": "https://www.startuphub.ai/startups/53win",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "55kbet",
+    "category": "Online Betting",
+    "location": null,
+    "funding": null,
+    "description": "Unduh Aplikasi Resmi 55kbet: Login & Daftar Platform Terpercaya, Cepat & Aman.",
+    "source_url": "https://www.startuphub.ai/startups/55kbet",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "56wim",
+    "category": "56wim là nhà cái trực tuyến uy tín tại Việt Nam, cung cấp cá cược thể thao, casino trực tiếp, đá gà và nổ hũ với tỷ lệ cược hấp dẫn, nạp rút nhanh chóng.",
+    "location": null,
+    "funding": null,
+    "description": null,
+    "source_url": "https://www.startuphub.ai/startups/56wim",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "5forward",
+    "category": "Agentic AI",
+    "location": null,
+    "funding": null,
+    "description": null,
+    "source_url": "https://www.startuphub.ai/startups/5forward",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "5kcircle",
+    "category": "London, United Kingdom",
+    "location": null,
+    "funding": null,
+    "description": "5KCircle is the private room around a star. Five thousand members worldwide get direct messages, video calls, merchandise, competitions, polls, Q&amp;A and an exclusive feed — by invitation of the sta",
+    "source_url": "https://www.startuphub.ai/startups/5kcircle",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "5lines",
+    "category": "Agentic AI",
+    "location": null,
+    "funding": null,
+    "description": "5lines.io is a platform for creating and managing AI agents, focusing on agentic workflows and development.",
+    "source_url": "https://www.startuphub.ai/startups/5lines",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "5U AI",
+    "category": "Logistics",
+    "location": "Munich, Germany",
+    "funding": "$3.2M",
+    "description": "AI-powered digital workforce platform for freight forwarding teams, automating operational tasks across air, sea, and road freight.",
+    "source_url": "https://www.startuphub.ai/startups/5u-ai",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "645 Ventures",
+    "category": "Venture Capital",
+    "location": "New York, USA",
+    "funding": "$63.0M",
+    "description": "Venture capital firm focused on early-stage technology companies.",
+    "source_url": "https://www.startuphub.ai/startups/645-ventures",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "666game",
+    "category": "666game တွင် Live Casino, Football Betting, Slots, ၂လုံး၃လုံးထီ တို့ကို KBZPay, Wave Pay ဖြင့် လွယ်ကူစွာ ကစားနိုင်သည်။",
+    "location": null,
+    "funding": null,
+    "description": null,
+    "source_url": "https://www.startuphub.ai/startups/666game",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "66fff",
+    "category": "Tham gia 66fff - nền tảng cá cược trực tuyến hàng đầu Việt Nam với cược thể thao, casino trực tiếp, đá gà, nổ hũ và nhiều ưu đãi hấp dẫn.",
+    "location": null,
+    "funding": null,
+    "description": null,
+    "source_url": "https://www.startuphub.ai/startups/66fff",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "68vim",
+    "category": "68vim là nền tảng cá cược trực tuyến uy tín tại Việt Nam – Casino, Đá Gà, Nổ Hũ, Tài Xỉu. Nạp rút siêu tốc qua MoMo, ZaloPay. Đăng ký nhận thưởng ngay!",
+    "location": null,
+    "funding": null,
+    "description": null,
+    "source_url": "https://www.startuphub.ai/startups/68vim",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "69tang",
+    "category": "Online Gambling",
+    "location": null,
+    "funding": null,
+    "description": "69tang – Nền tảng cá cược trực tuyến uy tín tại Việt Nam. Thể thao, casino trực tiếp, đá gà, nổ hũ – rút tiền siêu tốc qua MoMo, ZaloPay.",
+    "source_url": "https://www.startuphub.ai/startups/69tang",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "6hub",
+    "category": "Conversational AI",
+    "location": null,
+    "funding": null,
+    "description": "Rebuilding human connection with AI.",
+    "source_url": "https://www.startuphub.ai/startups/6hub",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "6over6 Vision",
+    "category": "Healthcare",
+    "location": "Tel Aviv, Israel",
+    "funding": "$15.5M",
+    "description": "6over6 Vision develops GlassesOn, a smartphone app that provides essential optometry tools for accessible vision care.",
+    "source_url": "https://www.startuphub.ai/startups/6over6-vision",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "701x",
+    "category": "Agriculture",
+    "location": "Fargo, USA",
+    "funding": "$20.0M",
+    "description": "Beef cattle technology company",
+    "source_url": "https://www.startuphub.ai/startups/701x",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "73 Strings",
+    "category": "Fintech",
+    "location": "Paris, France",
+    "funding": "$65.0M",
+    "description": "AI-powered platform for valuation, monitoring, and data intelligence in private capital markets.",
+    "source_url": "https://www.startuphub.ai/startups/73-strings",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "770 Health Envelope",
+    "category": "Project Finance",
+    "location": "פתח תקווה, Israel",
+    "funding": null,
+    "description": "Connecting capital, infrastructure and opportunity across Somaliland. Project finance, insurance, energy, water, ports and technology — built to institutional standards.",
+    "source_url": "https://www.startuphub.ai/startups/770-health-envelope",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "77abs",
+    "category": "Online Betting",
+    "location": null,
+    "funding": null,
+    "description": "77abs is Bangladesh's premier online betting and casino platform, offering cricket betting, live casino, and slots with instant BDT payments.",
+    "source_url": "https://www.startuphub.ai/startups/77abs",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "77dat",
+    "category": "Join 77dat for cricket betting, live casino, slots and more. Instant deposits via bKash &amp; Nagad. 500+ games. Trusted by 50,000+ Bangladeshi players.",
+    "location": null,
+    "funding": null,
+    "description": null,
+    "source_url": "https://www.startuphub.ai/startups/77dat",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "77king",
+    "category": "77king – Sân chơi cá cược trực tuyến uy tín tại Việt Nam. Đăng ký nhận thưởng chào mừng, chơi Live Casino, Đá Gà, Nổ Hũ với tỷ lệ cược hấp dẫn nhất.",
+    "location": null,
+    "funding": null,
+    "description": null,
+    "source_url": "https://www.startuphub.ai/startups/77king",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "79kinh",
+    "category": "79kinh là nhà cái cá cược trực tuyến uy tín tại Việt Nam. Tham gia ngay để trải nghiệm thể thao, casino, đá gà, nổ hũ với tỷ lệ cược hấp dẫn nhất.",
+    "location": null,
+    "funding": null,
+    "description": null,
+    "source_url": "https://www.startuphub.ai/startups/79kinh",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "79kng",
+    "category": "79kng là nhà cái uy tín hàng đầu Việt Nam – cá cược thể thao, casino trực tuyến, đá gà, nổ hũ và xổ số với tỷ lệ cược cao, nạp rút siêu tốc qua MoMo, ZaloPay.",
+    "location": null,
+    "funding": null,
+    "description": null,
+    "source_url": "https://www.startuphub.ai/startups/79kng",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "7AI",
+    "category": "Agentic AI",
+    "location": "San Francisco, United States",
+    "funding": "$140.0M",
+    "description": "AI-powered security operations platform automating alert processing, investigation, and repetitive tasks.",
+    "source_url": "https://www.startuphub.ai/startups/7ai",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "7chat",
+    "category": "Omnichannel",
+    "location": null,
+    "funding": null,
+    "description": "Omnichannel live chat, internal chat, and shared email for cloud workspaces.",
+    "source_url": "https://www.startuphub.ai/startups/7chat",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "7jaya",
+    "category": "Online Casino",
+    "location": null,
+    "funding": null,
+    "description": "7jaya is Bangladesh's premier online casino and sports betting platform, offering a secure and enjoyable gaming experience tailored for local players.",
+    "source_url": "https://www.startuphub.ai/startups/7jaya",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "7shifts",
+    "category": "Restaurant Tech",
+    "location": "Saskatoon, Canada",
+    "funding": "$122.2M",
+    "description": "Restaurant scheduling and team management software to optimize labor costs and improve employee engagement.",
+    "source_url": "https://www.startuphub.ai/startups/7shifts",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "7zed",
+    "category": "7zed is Bangladesh",
+    "location": null,
+    "funding": null,
+    "description": null,
+    "source_url": "https://www.startuphub.ai/startups/7zed",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "800.com",
+    "category": "Voice AI",
+    "location": "$20.0M",
+    "funding": null,
+    "description": "Cloud-based phone number marketplace offering virtual numbers and telecommunication services for businesses.",
+    "source_url": "https://www.startuphub.ai/startups/800-com",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "8090",
+    "category": "AI Agent",
+    "location": "Menlo Park, United States",
+    "funding": "$135.0M",
+    "description": "8090 is an AI-native software development platform that empowers business leaders with direct control over the software creation process, from specification to deployment, ensuring quality and consistency.",
+    "source_url": "https://www.startuphub.ai/startups/8090-ai",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "888.com",
+    "category": null,
+    "location": null,
+    "funding": null,
+    "description": null,
+    "source_url": "https://www.startuphub.ai/startups/888-com",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "88acb",
+    "category": "88acb là nhà cái cá cược trực tuyến uy tín tại Việt Nam. Tham gia ngay để trải nghiệm casino, đá gà, nổ hũ, xổ số và thể thao hấp dẫn với tỷ lệ cược tốt nhất.",
+    "location": null,
+    "funding": null,
+    "description": null,
+    "source_url": "https://www.startuphub.ai/startups/88acb",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "88gogo",
+    "category": "Online Betting",
+    "location": null,
+    "funding": null,
+    "description": "88gogo is a reputable online betting platform in Vietnam, offering sports betting, live casino, cockfighting, and slot games with attractive odds and 24/7 support.",
+    "source_url": "https://www.startuphub.ai/startups/88gogo",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "8api",
+    "category": "API Platform",
+    "location": null,
+    "funding": null,
+    "description": "Unified AI API gateway and admin dashboard.",
+    "source_url": "https://www.startuphub.ai/startups/8api",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "8DAY",
+    "category": "Online Gambling",
+    "location": null,
+    "funding": null,
+    "description": "8DAY is a reputable online gambling platform in Vietnam offering a diverse range of games and attractive rewards.",
+    "source_url": "https://www.startuphub.ai/startups/nftnt",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "8fig",
+    "category": "E-commerce",
+    "location": "Austin, United States",
+    "funding": "$156.5M",
+    "description": "Provides flexible funding and growth tools for e-commerce sellers to reach 8-figure revenues.",
+    "source_url": "https://www.startuphub.ai/startups/8fig",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "8Flow.ai",
+    "category": "Enterprise",
+    "location": "Tel Aviv, Israel",
+    "funding": "$13.2M",
+    "description": "AI-powered automation platform that streamlines enterprise workflows for support teams.",
+    "source_url": "https://www.startuphub.ai/startups/8flow-ai",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "8kbest",
+    "category": "Online Gambling",
+    "location": null,
+    "funding": null,
+    "description": "8kbest là nhà cái trực tuyến uy tín tại Việt Nam, cung cấp cá cược thể thao, casino live, nổ hũ, đá gà và xổ số với thanh toán MoMo, ZaloPay siêu tốc.",
+    "source_url": "https://www.startuphub.ai/startups/8kbest",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "8mbat",
+    "category": "Online Betting",
+    "location": null,
+    "funding": null,
+    "description": "8mbat is an online betting and casino platform for players in Bangladesh, offering cricket betting, slots, and live casino games with local payment options.",
+    "source_url": "https://www.startuphub.ai/startups/8mbat",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "8stream",
+    "category": "Live Streaming",
+    "location": null,
+    "funding": null,
+    "description": null,
+    "source_url": "https://www.startuphub.ai/startups/8stream",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "8updb",
+    "category": "Online Betting",
+    "location": null,
+    "funding": null,
+    "description": "8updb is Bangladesh's premier online betting and casino platform, offering cricket betting, slots, and live casino games with local payment methods.",
+    "source_url": "https://www.startuphub.ai/startups/8updb",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "8VC",
+    "category": "Venture Capital",
+    "location": "Austin, United States",
+    "funding": null,
+    "description": "8VC is an American venture capital firm founded by Joe Lonsdale.",
+    "source_url": "https://www.startuphub.ai/startups/8vc",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "8x Social",
+    "category": "Creator Economy",
+    "location": "San Francisco, United States",
+    "funding": null,
+    "description": "8x manages creator networks that drive millions of views, handling sourcing, content, payments, and analytics for brands.",
+    "source_url": "https://www.startuphub.ai/startups/8x-social",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "8x8",
+    "category": "Cloud Communications",
+    "location": "Campbell, USA",
+    "funding": "$63.0M",
+    "description": "A cloud communications and collaboration company.",
+    "source_url": "https://www.startuphub.ai/startups/8x8",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "9 Mothers",
+    "category": "Hard Tech",
+    "location": "Austin, United States",
+    "funding": null,
+    "description": "AI weapon systems",
+    "source_url": "https://www.startuphub.ai/startups/9-mothers",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "91code",
+    "category": "API Platform",
+    "location": null,
+    "funding": null,
+    "description": "Unified AI API gateway and admin dashboard.",
+    "source_url": "https://www.startuphub.ai/startups/91code",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "91model",
+    "category": "Foundation Model",
+    "location": null,
+    "funding": null,
+    "description": "Unified AI model aggregation and distribution gateway for cross-format LLM compatibility.",
+    "source_url": "https://www.startuphub.ai/startups/91model",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "91telecom",
+    "category": "Telecom Infrastructure",
+    "location": "Worcester, United Kingdom",
+    "funding": null,
+    "description": "Provider of business telecommunications solutions including VoIP, cloud telephony, and connectivity.",
+    "source_url": "https://www.startuphub.ai/startups/91telecom",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "94win",
+    "category": "Online Gambling",
+    "location": null,
+    "funding": null,
+    "description": "94win là nhà cái cá cược trực tuyến uy tín tại Việt Nam, cung cấp casino, đá gà, nổ hũ, thể thao.",
+    "source_url": "https://www.startuphub.ai/startups/94win",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "991jili",
+    "category": "Online Casino",
+    "location": null,
+    "funding": null,
+    "description": "991JILI is an online casino and betting platform offering slots, live dealer games, and sports betting.",
+    "source_url": "https://www.startuphub.ai/startups/991jili",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "99dots",
+    "category": "Sales Intelligence",
+    "location": null,
+    "funding": null,
+    "description": "Get real decision makers with checked emails and ready-to-send drafts in about a minute for outbound sales.",
+    "source_url": "https://www.startuphub.ai/startups/99dots",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "9fin",
+    "category": "Fintech",
+    "location": "London, United Kingdom",
+    "funding": "$170.0M",
+    "description": "A debt market data and analytics platform for financial services businesses.",
+    "source_url": "https://www.startuphub.ai/startups/9fin",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "9kbd",
+    "category": "9kbd is Bangladesh",
+    "location": null,
+    "funding": null,
+    "description": null,
+    "source_url": "https://www.startuphub.ai/startups/9kbd",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "9xchange",
+    "category": "Marketplace",
+    "location": "London, United Kingdom",
+    "funding": null,
+    "description": "Biopharma marketplace for transparent dealmaking, asset monetization, and discovery in the life sciences industry.",
+    "source_url": "https://www.startuphub.ai/startups/9xchange",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "A Vi",
+    "category": "Référence mondiale sur les légumes, fruits, aromates et plantes comestibles/alimentaires (plus de 120 000 fiches et un large éventail d",
+    "location": null,
+    "funding": null,
+    "description": null,
+    "source_url": "https://www.startuphub.ai/startups/a-vi",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "A-Cube",
+    "category": "RegTech",
+    "location": "Milan, Italy",
+    "funding": "$4.0M",
+    "description": "Automated digital tax compliance and integrated digital trade platform.",
+    "source_url": "https://www.startuphub.ai/startups/a-cube",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "A.Team",
+    "category": "Enterprise",
+    "location": "San Francisco, United States",
+    "funding": "$70.0M",
+    "description": "Members-only network of top engineers, PMs, designers, and marketers for accelerated product development.",
+    "source_url": "https://www.startuphub.ai/startups/a-team",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "A&K Robotics",
+    "category": "Physical AI",
+    "location": "Vancouver, Canada",
+    "funding": "$9.1M",
+    "description": "A&K Robotics designs and builds electric micro-mobility platforms and self-driving robotic pods for indoor environments.",
+    "source_url": "https://www.startuphub.ai/startups/a-k-robotics",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "AA-I Technologies",
+    "category": "Frontier AI Lab",
+    "location": "San Francisco, United States",
+    "funding": "$20.0M",
+    "description": "Develops AI that surpasses expert capabilities in science and technology, scaling expert intelligence.",
+    "source_url": "https://www.startuphub.ai/startups/aa-i-technologies",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "AAA Biotech",
+    "category": "Biotechnology",
+    "location": "United States",
+    "funding": null,
+    "description": "AAA BioTech catalog carries only the finest quality reagents.",
+    "source_url": "https://www.startuphub.ai/startups/aaa-biotech",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Aadhix Digital",
+    "category": "Software Consultancy",
+    "location": "West Drayton, England",
+    "funding": null,
+    "description": "A UK software consultancy delivering agile digital services for public sector and commercial organisations.",
+    "source_url": "https://www.startuphub.ai/startups/aadhix-digital-aadhixdigital-com",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Aaen",
+    "category": "Holding Company",
+    "location": null,
+    "funding": null,
+    "description": "AAEN Holdings is a private holding company.",
+    "source_url": "https://www.startuphub.ai/startups/aaen",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Aaintel",
+    "category": "Agentic AI",
+    "location": null,
+    "funding": null,
+    "description": "Specialist enterprise AI strategy and agentic automation consultancy. Transform your business with secure, high-performance AI solutions.",
+    "source_url": "https://www.startuphub.ai/startups/aaintel",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Aalo Atomics",
+    "category": "Austin, United States",
+    "location": "$100.0M",
+    "funding": null,
+    "description": "Aalo Atomics builds fully modular nuclear plants to power modern AI data centers.",
+    "source_url": "https://www.startuphub.ai/startups/aalo-atomics",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Aaltra",
+    "category": "Digital Innovation",
+    "location": "Melle, Belgium",
+    "funding": null,
+    "description": "Aaltra is a digital innovation studio that designs and develops connected software, mobile apps, online business applications, and IoT solutions for various industries.",
+    "source_url": "https://www.startuphub.ai/startups/aaltra",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Aalyria Technologies",
+    "category": "Space Technology",
+    "location": "Livermore, USA",
+    "funding": "$108.7M",
+    "description": "A space networking startup developing advanced communications technology for satellite constellations.",
+    "source_url": "https://www.startuphub.ai/startups/aalyria-technologies-inc",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Aampere",
+    "category": "Automotive",
+    "location": "Munich, Germany",
+    "funding": "$4.2M",
+    "description": "A fully digital, pan-European platform for selling used electric cars.",
+    "source_url": "https://www.startuphub.ai/startups/aampere",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Aaptiv",
+    "category": "Health & Wellness",
+    "location": "New York City, United States",
+    "funding": "$61.5M",
+    "description": "Audio fitness company",
+    "source_url": "https://www.startuphub.ai/startups/aaptiv",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Aardaia",
+    "category": "Agritech",
+    "location": "Wageningen, Netherlands",
+    "funding": "$5.0M",
+    "description": "Developing new crop varieties from wild plants using advanced breeding technology.",
+    "source_url": "https://www.startuphub.ai/startups/aardaia",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Aarin",
+    "category": "São Paulo, Brazil",
+    "location": "$398K",
+    "funding": null,
+    "description": "A fintech company focused on credit solutions for small and medium-sized businesses.",
+    "source_url": "https://www.startuphub.ai/startups/aarin",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Aarogram",
+    "category": "Insurance Eligibility & Benefits Verification",
+    "location": "New York, United States",
+    "funding": "$100K",
+    "description": "Insurance Eligibility & Benefits Verification",
+    "source_url": "https://www.startuphub.ai/startups/aarogram",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Aaru",
+    "category": "NeoLab",
+    "location": "San Francisco, United States",
+    "funding": null,
+    "description": "Aaru is a software development company focused on rethinking the science of prediction through human simulation.",
+    "source_url": "https://www.startuphub.ai/startups/aaru",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Aasvault",
+    "category": "Digital Asset Management",
+    "location": null,
+    "funding": null,
+    "description": "Aasvault provides a secure and compliant platform for managing digital assets and sensitive data.",
+    "source_url": "https://www.startuphub.ai/startups/aasvault",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Aavalynx",
+    "category": "LegalTech",
+    "location": "London, United Kingdom",
+    "funding": "$1.8M",
+    "description": "AI-powered intelligence platform for enterprises to manage and optimize the financial risk of legal disputes.",
+    "source_url": "https://www.startuphub.ai/startups/aavalynx",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Aave",
+    "category": "Fintech",
+    "location": "London, United Kingdom",
+    "funding": "$29.5M",
+    "description": "A decentralized protocol for lending and borrowing cryptocurrencies.",
+    "source_url": "https://www.startuphub.ai/startups/aave",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Aavuus",
+    "category": "Aerospace",
+    "location": "Espoo, Finland",
+    "funding": null,
+    "description": "Building a global network of ground-based laser stations for precise orbital object tracking.",
+    "source_url": "https://www.startuphub.ai/startups/aavuus",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "AB Tasty",
+    "category": "Paris, France",
+    "location": "$120.0M",
+    "funding": null,
+    "description": null,
+    "source_url": "https://www.startuphub.ai/startups/ab-tasty",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Ab99o",
+    "category": "Online Betting",
+    "location": null,
+    "funding": null,
+    "description": "Bangladesh's trusted online casino and sports betting platform offering cricket odds and instant BDT payments.",
+    "source_url": "https://www.startuphub.ai/startups/ab99o",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Abacum",
+    "category": "Fintech",
+    "location": "Tel Aviv, Israel",
+    "funding": "$224.5M",
+    "description": "An FP&A platform empowering finance teams with AI-driven tools for business planning, forecasting, and reporting.",
+    "source_url": "https://www.startuphub.ai/startups/abacum",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Abacus",
+    "category": "Finance",
+    "location": "New York, United States",
+    "funding": "$6.6M",
+    "description": "On-premise AI infrastructure for regulated industries, ensuring data control, security, and compliance.",
+    "source_url": "https://www.startuphub.ai/startups/abacus",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Abacus Insights",
+    "category": "Healthcare",
+    "location": "Boston, United States",
+    "funding": null,
+    "description": "Abacus Insights is a healthcare technology company that provides a data integration and management platform designed to curate, organize, and standardize healthcare data for payers.",
+    "source_url": "https://www.startuphub.ai/startups/abacus-insights",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Abacus.AI",
+    "category": "AI Foundation & Compute",
+    "location": "San Francisco, United States",
+    "funding": "$90.3M",
+    "description": "An enterprise AI platform for building and deploying generative AI applications and machine learning models.",
+    "source_url": "https://www.startuphub.ai/startups/abacus-ai",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "ABADAI",
+    "category": "Fintech",
+    "location": null,
+    "funding": null,
+    "description": "Early-stage startup developing advanced algorithmic trading technology for cryptocurrency and blockchain markets.",
+    "source_url": "https://www.startuphub.ai/startups/abadai",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "ABB",
+    "category": "$60.7B",
+    "location": null,
+    "funding": null,
+    "description": null,
+    "source_url": "https://www.startuphub.ai/startups/abb",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Abb77",
+    "category": "Join abb77, Bangladesh",
+    "location": null,
+    "funding": null,
+    "description": null,
+    "source_url": "https://www.startuphub.ai/startups/abb77",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Abbi.io",
+    "category": "Mobile",
+    "location": "Tel Aviv, Israel",
+    "funding": null,
+    "description": "Native mobile AI solution to boost in-app engagement and revenue.",
+    "source_url": "https://www.startuphub.ai/startups/abbi-io",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Abby Care",
+    "category": "Healthcare",
+    "location": "San Francisco, United States",
+    "funding": "$35.0M",
+    "description": "Abby Care is an AI-powered platform that enables individuals to become paid caregivers for their loved ones through Medicaid programs, offering training, an app for documentation, and community support.",
+    "source_url": "https://www.startuphub.ai/startups/abby-care",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "ABBYY",
+    "category": "Intelligent Document Processing",
+    "location": "Austin, United States",
+    "funding": "$100.0M",
+    "description": "ABBYY provides AI-powered solutions for intelligent document processing and process intelligence.",
+    "source_url": "https://www.startuphub.ai/startups/abbyy",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "ABC Trainerize",
+    "category": "HealthTech",
+    "location": "Vancouver, Canada",
+    "funding": null,
+    "description": "SaaS platform for personal trainers to deliver online training, nutrition, and client management.",
+    "source_url": "https://www.startuphub.ai/startups/abc-trainerize",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Abc83",
+    "category": "abc83 là nhà cái uy tín hàng đầu Việt Nam với casino trực tuyến, cá cược thể thao, đá gà, nổ hũ và nhiều ưu đãi hấp dẫn. Đăng ký ngay hôm nay!",
+    "location": null,
+    "funding": null,
+    "description": null,
+    "source_url": "https://www.startuphub.ai/startups/abc83",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Abcam",
+    "category": "Biotechnology",
+    "location": "Cambridge, United Kingdom",
+    "funding": "$256.9M",
+    "description": "Global supplier of life science research tools, including antibodies, reagents, and assays.",
+    "source_url": "https://www.startuphub.ai/startups/abcam",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "AbCellera",
+    "category": "Biotech",
+    "location": "Vancouver, Canada",
+    "funding": "$10.0M",
+    "description": "AI-powered platform for antibody discovery and development to create new medicines.",
+    "source_url": "https://www.startuphub.ai/startups/abcellera",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "ABEJA",
+    "category": "Tokyo, Japan",
+    "location": "$45.3M",
+    "funding": null,
+    "description": "Provides AI and data analytics solutions for businesses.",
+    "source_url": "https://www.startuphub.ai/startups/abeja",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Abel",
+    "category": "GovTech",
+    "location": "San Francisco, United States",
+    "funding": null,
+    "description": "AI for local governments, building a live causal world model for financial and macroeconomic insights.",
+    "source_url": "https://www.startuphub.ai/startups/abel",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Abhyaas",
+    "category": "Professional Certifications",
+    "location": null,
+    "funding": null,
+    "description": "Verifiable role-based certifications. Blueprint-driven exams, server-side scoring, public credential verification.",
+    "source_url": "https://www.startuphub.ai/startups/abhyaas",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Ability.ai",
+    "category": "AI Infrastructure",
+    "location": "San Francisco, United States",
+    "funding": "$1.1M",
+    "description": "Ability.ai transforms company operations into scalable AI systems for growth-stage teams.",
+    "source_url": "https://www.startuphub.ai/startups/ability-ai",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "ABIONYX Pharma",
+    "category": "Biotechnology",
+    "location": "Toulouse, France",
+    "funding": "$225.0M",
+    "description": "Biopharmaceutical company developing innovative therapies for sepsis and intensive care.",
+    "source_url": "https://www.startuphub.ai/startups/abionyx-pharma",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "ABLY",
+    "category": "Realtime Communication",
+    "location": "London, United Kingdom",
+    "funding": "$88.0M",
+    "description": "Realtime communication platform for live applications and synchronized AI agents.",
+    "source_url": "https://www.startuphub.ai/startups/ably",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Abound",
+    "category": "Fintech",
+    "location": "San Francisco, United States",
+    "funding": "$22.5M",
+    "description": "Financial wellness platform for independent workers, offering health insurance, retirement, and financial planning.",
+    "source_url": "https://www.startuphub.ai/startups/abound",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Above Security",
+    "category": "Cybersecurity",
+    "location": "Tel Aviv, Israel",
+    "funding": "$50.0M",
+    "description": null,
+    "source_url": "https://www.startuphub.ai/startups/above-security",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Abrade",
+    "category": "AI Testing",
+    "location": null,
+    "funding": null,
+    "description": "Injects faults into what your agent believes, complementing AWS FIS for pods.",
+    "source_url": "https://www.startuphub.ai/startups/abrade",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Abridge",
+    "category": "Healthcare",
+    "location": "Pittsburgh, United States",
+    "funding": "$300.0M",
+    "description": "Abridge provides enterprise-grade generative AI for clinical conversations, transforming patient-clinician interactions into contextually aware, clinically useful, and billable AI-generated notes for healthcare systems.",
+    "source_url": "https://www.startuphub.ai/startups/abridge",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Absci",
+    "category": "Biotech",
+    "location": "Vancouver, United States",
+    "funding": "$100.5M",
+    "description": "AI-powered drug discovery and development platform for biologics.",
+    "source_url": "https://www.startuphub.ai/startups/absci",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "AbsolutData",
+    "category": "Analytics Platform",
+    "location": "San Francisco, United States",
+    "funding": "$16.0M",
+    "description": "AI-powered analytics and insights platform for customer experience and marketing.",
+    "source_url": "https://www.startuphub.ai/startups/absolutdata",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Abstract Security",
+    "category": "Cybersecurity",
+    "location": "San Francisco, United States",
+    "funding": "$48.5M",
+    "description": "AI-Gen Composable SIEM for streaming-first security operations",
+    "source_url": "https://www.startuphub.ai/startups/abstract-security-inc",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Acast",
+    "category": "Media",
+    "location": "Stockholm, Sweden",
+    "funding": "$63.0M",
+    "description": "The podcast platform for creators and advertisers.",
+    "source_url": "https://www.startuphub.ai/startups/acast",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Accel",
+    "category": "Venture Capital",
+    "location": "Palo Alto, United States",
+    "funding": "$19.6B",
+    "description": "Venture capital firm investing in early-stage and growth-stage technology companies.",
+    "source_url": "https://www.startuphub.ai/startups/accel",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Accelerant Holdings",
+    "category": "InsurTech",
+    "location": "Atlanta, United States",
+    "funding": "$150.0M",
+    "description": "A cloud platform connecting specialty insurance MGAs with insurers and other capital providers, enabling access to capital for underwriting through advanced analytics and real-time data.",
+    "source_url": "https://www.startuphub.ai/startups/accelerant",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Accelleran",
+    "category": "Telecommunications",
+    "location": "Cambridge, United Kingdom",
+    "funding": "$63.0M",
+    "description": "Simplifying private 5G networks.",
+    "source_url": "https://www.startuphub.ai/startups/accelleran",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Accelo",
+    "category": "Professional Services Automation",
+    "location": "Denver, United States",
+    "funding": "$2.0M",
+    "description": "Cloud-based platform for professional services automation and client work management.",
+    "source_url": "https://www.startuphub.ai/startups/accelo",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "AcceloWeb",
+    "category": "Web Performance",
+    "location": "$1.0M",
+    "funding": null,
+    "description": "AcceloWeb accelerates website loading times to boost online business performance and user experience.",
+    "source_url": "https://www.startuphub.ai/startups/acceloweb",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Acceltree Software",
+    "category": "InsurTech",
+    "location": "Pune, India",
+    "funding": "$218K",
+    "description": "Innovative technology provider for the insurance and banking sectors, specializing in Insurtech solutions.",
+    "source_url": "https://www.startuphub.ai/startups/acceltree-software",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Accertify",
+    "category": "SaaS",
+    "location": "Itasca, United States",
+    "funding": "$7.1M",
+    "description": "Accertify provides a unified risk decisioning platform for fraud prevention and digital identity solutions.",
+    "source_url": "https://www.startuphub.ai/startups/accertify",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Access Code",
+    "category": "Accessibility Tech",
+    "location": null,
+    "funding": null,
+    "description": "Building inclusive digital solutions that reduce barriers and create better experiences for everyone.",
+    "source_url": "https://www.startuphub.ai/startups/access-code-accesscode-com-np",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "AccessGrid",
+    "category": "Data Governance",
+    "location": "San Francisco, United States",
+    "funding": "$10.3M",
+    "description": "AI-powered platform for secure and efficient data access and collaboration.",
+    "source_url": "https://www.startuphub.ai/startups/accessgrid",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "accessiBe",
+    "category": "Web Accessibility",
+    "location": "Tel Aviv, Israel",
+    "funding": "$58.0M",
+    "description": "AI-powered web accessibility solutions for ADA and WCAG compliance.",
+    "source_url": "https://www.startuphub.ai/startups/accessibe",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Accesspatch",
+    "category": "Accessibility Software",
+    "location": null,
+    "funding": null,
+    "description": "Continuously scan your sites for accessibility violations and get the actual code fix for each one. No overlay widgets.",
+    "source_url": "https://www.startuphub.ai/startups/accesspatch",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Accio Work",
+    "category": "Accio Work is the agentic team that runs your business. It goes beyond chat to execute real business tasks with built-in skills and connectors.",
+    "location": null,
+    "funding": null,
+    "description": null,
+    "source_url": "https://www.startuphub.ai/startups/accio-com",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "AccomplyAI",
+    "category": "AI Consulting",
+    "location": null,
+    "funding": null,
+    "description": "AccomplyAI is an AI consulting company specializing in automation, generative AI, and intelligent agents for enterprises.",
+    "source_url": "https://www.startuphub.ai/startups/accomply",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Accord",
+    "category": "Sales Enablement",
+    "location": "San Francisco, USA",
+    "funding": "$36.0M",
+    "description": "A customer collaboration platform designed to streamline B2B sales processes and improve buyer-seller relationships.",
+    "source_url": "https://www.startuphub.ai/startups/accord",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Accord Solutions",
+    "category": "Southport, England",
+    "location": null,
+    "funding": null,
+    "description": "Accord is the case-management platform built for child contact centres — referrals, scheduling, session reports, safeguarding, payments and compliance in one place.",
+    "source_url": "https://www.startuphub.ai/startups/accord-solutions",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Accordance",
+    "category": "Tax",
+    "location": "New York, United States",
+    "funding": "$13.0M",
+    "description": "AI-native platform for accounting and tax firms, acting as an intelligent co-pilot for professionals.",
+    "source_url": "https://www.startuphub.ai/startups/accordance",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "AccorHotels",
+    "category": "Hospitality",
+    "location": "Paris, France",
+    "funding": "$1.2M",
+    "description": "Global hospitality group with over 45 brands offering diverse hotel experiences, wellness, and entertainment.",
+    "source_url": "https://www.startuphub.ai/startups/accorhotels",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "AccountsIQ",
+    "category": "Accounting Automation",
+    "location": "Dublin, Ireland",
+    "funding": "$71.3M",
+    "description": "Cloud-based financial management software with AI capabilities for medium-sized businesses and non-profits.",
+    "source_url": "https://www.startuphub.ai/startups/accountsiq",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "AccountViewer",
+    "category": "Social Media",
+    "location": "London, United Kingdom",
+    "funding": null,
+    "description": "AccountViewer provides anonymous viewing of Instagram profiles and content, including private accounts.",
+    "source_url": "https://www.startuphub.ai/startups/accountviewer",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Accqui",
+    "category": "Proptech",
+    "location": "London, United Kingdom",
+    "funding": null,
+    "description": "Structured renter intelligence, AI-assisted talent operations, and accountable research workflows for the UK rental market.",
+    "source_url": "https://www.startuphub.ai/startups/accqui",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Accumulator",
+    "category": "Fintech",
+    "location": "San Francisco, United States",
+    "funding": "$46.0M",
+    "description": "Financial infrastructure for private tech liquidity, managing wealth concentration risk for founders and shareholders.",
+    "source_url": "https://www.startuphub.ai/startups/accumulator",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Acd77",
+    "category": "acd77 is Bangladesh",
+    "location": null,
+    "funding": null,
+    "description": null,
+    "source_url": "https://www.startuphub.ai/startups/acd77",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Ace76",
+    "category": "Startup",
+    "location": null,
+    "funding": null,
+    "description": "Ace76 is a startup based in Bangladesh.",
+    "source_url": "https://www.startuphub.ai/startups/ace76",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Acecore Technologies",
+    "category": "Aerospace",
+    "location": "Uden, Netherlands",
+    "funding": null,
+    "description": "Developer of advanced drone technology for defense and security applications.",
+    "source_url": "https://www.startuphub.ai/startups/acecore-technologies",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Acedly",
+    "category": "AI Copilot",
+    "location": "Beckenham, United Kingdom",
+    "funding": null,
+    "description": "Real-time AI interview copilot that provides a private overlay for users during virtual interviews.",
+    "source_url": "https://www.startuphub.ai/startups/acedly",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "AceEssay.ai",
+    "category": "AI Tool",
+    "location": null,
+    "funding": null,
+    "description": "AceEssay.ai offers an AI humanizer and checker to make AI-generated text sound natural and maintain academic integrity.",
+    "source_url": "https://www.startuphub.ai/startups/aceessay-ai",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Aces Consult",
+    "category": "London, England",
+    "location": null,
+    "funding": null,
+    "description": "Air compliance issues can halt production. Leveraging nearly 20 years of certified professional engr experience, I am ready to help deal with compliance issues.",
+    "source_url": "https://www.startuphub.ai/startups/aces-consult",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Acesens",
+    "category": "AI Infrastructure",
+    "location": null,
+    "funding": null,
+    "description": "Acesens provides AI-powered solutions for optimizing industrial processes and improving operational efficiency.",
+    "source_url": "https://www.startuphub.ai/startups/acesens",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Acilio",
+    "category": "Acilio. AI for FMCG companies.",
+    "location": null,
+    "funding": null,
+    "description": null,
+    "source_url": "https://www.startuphub.ai/startups/acilio",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Acinstallers",
+    "category": "HVAC",
+    "location": null,
+    "funding": null,
+    "description": "Offers a wide variety of mini split air conditioners and heat pumps.",
+    "source_url": "https://www.startuphub.ai/startups/acinstallers",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Acira AI",
+    "category": "AI Website Builder",
+    "location": "$33.0M",
+    "funding": null,
+    "description": "AI-powered website builder that creates professional websites in minutes from a simple description.",
+    "source_url": "https://www.startuphub.ai/startups/acira-ai",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Acloaker",
+    "category": "Traffic Protection",
+    "location": null,
+    "funding": null,
+    "description": "Acloaker is an enterprise-grade traffic protection and smart routing platform that filters bots and fraud, routes real visitors instantly, and scales campaigns with confidence.",
+    "source_url": "https://www.startuphub.ai/startups/acloaker",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Acloset",
+    "category": "Artificial Intelligence",
+    "location": "Seoul, South Korea",
+    "funding": "$63.0M",
+    "description": "A digital closet and outfit recommendation app.",
+    "source_url": "https://www.startuphub.ai/startups/acloset",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Acm Sparks",
+    "category": "Agentic Commerce",
+    "location": null,
+    "funding": null,
+    "description": "Six-dimension deterministic product resolution standard for agentic commerce under Standard-10060.",
+    "source_url": "https://www.startuphub.ai/startups/acm-sparks",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Acodyne",
+    "category": "Aerospace",
+    "location": "Copenhagen, Denmark",
+    "funding": "$2.5M",
+    "description": "Develops autonomous eVTOL cargo aircraft for heavy-lift logistics.",
+    "source_url": "https://www.startuphub.ai/startups/acodyne",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "ACORE CAPITAL",
+    "category": "Commercial Real Estate",
+    "location": "San Francisco, United States",
+    "funding": "$3.2B",
+    "description": "A leading commercial real estate finance company providing debt and equity capital solutions across the capital stack.",
+    "source_url": "https://www.startuphub.ai/startups/acore-capital",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Acorn Applications LLC",
+    "category": "Vertical SaaS",
+    "location": "San Francisco, United States",
+    "funding": "$1.5M",
+    "description": "Develops a platform for managing and automating creative project workflows for small businesses.",
+    "source_url": "https://www.startuphub.ai/startups/acorn-applications-llc",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Acoru",
+    "category": "Creator Economy",
+    "location": "New York, United States",
+    "funding": "$82.5M",
+    "description": "Acoru is a platform that helps creators manage their businesses and monetize their content.",
+    "source_url": "https://www.startuphub.ai/startups/acoru",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Acquia",
+    "category": "SaaS",
+    "location": "Boston, United States",
+    "funding": "$174.0M",
+    "description": "Digital experience platform providing enterprise-grade cloud solutions based on the open-source Drupal CMS.",
+    "source_url": "https://www.startuphub.ai/startups/acquia",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Acquiredx",
+    "category": "Business Brokerage",
+    "location": null,
+    "funding": null,
+    "description": "Premium online business brokerage for founders of SaaS, content, e-commerce, AI, and Web3 businesses.",
+    "source_url": "https://www.startuphub.ai/startups/acquiredx",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Acquispo",
+    "category": "Underwrite, structure, and close residential and commercial real estate deals the Stack Method way — DSCR and seller financing, live deal scoring, and instant Letters of Intent.",
+    "location": null,
+    "funding": null,
+    "description": null,
+    "source_url": "https://www.startuphub.ai/startups/acquispo",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Acre Security",
+    "category": "Physical Security",
+    "location": "Austin, USA",
+    "funding": "$63.0M",
+    "description": "Unified cloud and physical security company providing integrated access control and intrusion detection solutions.",
+    "source_url": "https://www.startuphub.ai/startups/acre-security",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Acrivon AB",
+    "category": "AI Tools & Apps",
+    "location": "Uppsala, Sweden",
+    "funding": "$10.0M",
+    "description": null,
+    "source_url": "https://www.startuphub.ai/startups/acrivon-ab",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Acronis",
+    "category": "Cybersecurity",
+    "location": "Schaffhausen, Switzerland",
+    "funding": "$397.0M",
+    "description": "Global cyber protection company unifying data protection and cybersecurity.",
+    "source_url": "https://www.startuphub.ai/startups/acronis",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Across AI",
+    "category": "Agentic AI",
+    "location": "$5.8M",
+    "funding": null,
+    "description": "Across AI is an SF-based startup pioneering agentic AI for enterprise workflows, leveraging next-generation agentic memory to provide accurate, verifiable insights and actionable recommendations for sales teams.",
+    "source_url": "https://www.startuphub.ai/startups/across-ai",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "ACT Cooperative Corporation AS",
+    "category": "Oslo, Norway",
+    "location": "$120K",
+    "funding": null,
+    "description": "ACT Cooperative Corporation AS is a company focused on cooperative solutions.",
+    "source_url": "https://www.startuphub.ai/startups/act-cooperative-corporation-as",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "ACT Security",
+    "category": "Cybersecurity",
+    "location": "Tel Aviv, Israel",
+    "funding": "$40.0M",
+    "description": null,
+    "source_url": "https://www.startuphub.ai/startups/act-security",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Actelis",
+    "category": "Connectivity Products",
+    "location": "Sunnyvale, United States",
+    "funding": "$29.0M",
+    "description": "Provides cyber-hardened, hybrid fiber-copper networking solutions for IoT and broadband applications.",
+    "source_url": "https://www.startuphub.ai/startups/actelis",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Actero",
+    "category": "Agentic AI",
+    "location": null,
+    "funding": null,
+    "description": "Agentic infrastructure that turns real-time web intelligence into autonomous action.",
+    "source_url": "https://www.startuphub.ai/startups/actero",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Actionway",
+    "category": "One command connects your agent to 100+ creative AI capabilities — video, image, music, voice, search, and geo — with upfront pricing, a prepaid wallet that caps spend, and a receipt for every run.",
+    "location": null,
+    "funding": null,
+    "description": null,
+    "source_url": "https://www.startuphub.ai/startups/actionway",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Activant",
+    "category": "Investment Firm",
+    "location": null,
+    "funding": null,
+    "description": "Activant is a research-led global investment firm that partners with high-growth founders building category-defining technology companies.",
+    "source_url": "https://www.startuphub.ai/startups/activant",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Active Aging",
+    "category": "Healthcare",
+    "location": "Tel Aviv, Israel",
+    "funding": null,
+    "description": "AI-powered platform for personalized senior care and engagement.",
+    "source_url": "https://www.startuphub.ai/startups/active-aging",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "ActiveCampaign",
+    "category": "Agentic AI",
+    "location": "Chicago, United States",
+    "funding": "$50.0M",
+    "description": "Customer experience automation platform with email marketing, CRM, and marketing automation.",
+    "source_url": "https://www.startuphub.ai/startups/activecampaign",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "ActiveFence",
+    "category": "New Media",
+    "location": "Tel Aviv, Israel",
+    "funding": "$95.0M",
+    "description": "Trust and Safety platform protecting online platforms from malicious behavior and content.",
+    "source_url": "https://www.startuphub.ai/startups/activefence",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Actively AI",
+    "category": "Sales Tech",
+    "location": "San Francisco, United States",
+    "funding": "$45.0M",
+    "description": "GTM superintelligence platform that uses AI reasoning to identify and prioritize the highest-value prospects for B2B revenue teams.",
+    "source_url": "https://www.startuphub.ai/startups/actively-ai",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Actiview.io",
+    "category": "Enterprise",
+    "location": "Tel Aviv, Israel",
+    "funding": "$16.5M",
+    "description": "ActiView is an HR Tech company using virtual simulations and gamified tests for recruitment and talent development.",
+    "source_url": "https://www.startuphub.ai/startups/actiview-io",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Activisehealth",
+    "category": "HealthTech",
+    "location": "London, United Kingdom",
+    "funding": null,
+    "description": "Digital health platform empowering individuals to manage chronic conditions through personalized coaching and support.",
+    "source_url": "https://www.startuphub.ai/startups/activisehealth",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Activity Launcher",
+    "category": "Android Apps",
+    "location": null,
+    "funding": null,
+    "description": "Android app to launch hidden activities and settings not exposed by the system.",
+    "source_url": "https://www.startuphub.ai/startups/activity-launcher",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Activo AI",
+    "category": "Conversational AI",
+    "location": null,
+    "funding": null,
+    "description": "Activo AI provides an AI-powered platform for businesses to automate customer interactions and enhance sales and support.",
+    "source_url": "https://www.startuphub.ai/startups/activo-ai",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "ActivTrak",
+    "category": "AI",
+    "location": "Austin, United States",
+    "funding": "$70.0M",
+    "description": "AI-powered workforce analytics platform providing insights into employee productivity, engagement, and operational efficiency.",
+    "source_url": "https://www.startuphub.ai/startups/activtrak",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Actorix",
+    "category": "Cybersecurity",
+    "location": null,
+    "funding": null,
+    "description": "Actorix provides an AI-powered solution to detect and block phishing attacks before they reach users.",
+    "source_url": "https://www.startuphub.ai/startups/actorix",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Actradeck",
+    "category": "AI Coding Assistant",
+    "location": null,
+    "funding": null,
+    "description": "A control layer for approving, anonymizing, and auditing coding agents before they are saved, supporting Claude Code and Codex.",
+    "source_url": "https://www.startuphub.ai/startups/actradeck",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Actualization.ai",
+    "category": "Cybersecurity",
+    "location": "Tampa, USA",
+    "funding": "$70.3M",
+    "description": "Making cybersecurity more accessible, usable, and effective for small and mid-sized organizations.",
+    "source_url": "https://www.startuphub.ai/startups/actualizationai",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Actuate Energy",
+    "category": "Energy Storage",
+    "location": "Dallas, USA",
+    "funding": "$63.0M",
+    "description": "Battery energy storage system investment and operating platform.",
+    "source_url": "https://www.startuphub.ai/startups/actuate-energy",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Acuapp",
+    "category": "Adaptive study for acupuncture board exams: pattern differentiation, tongue and pulse, case studies, and spaced repetition.",
+    "location": null,
+    "funding": null,
+    "description": null,
+    "source_url": "https://www.startuphub.ai/startups/acuapp",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "AcuityMD",
+    "category": "HealthTech",
+    "location": "Boston, USA",
+    "funding": "$80.0M",
+    "description": "The AI platform for MedTech.",
+    "source_url": "https://www.startuphub.ai/startups/acuitymd",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Acumatica",
+    "category": "Enterprise Software",
+    "location": "Bellevue, United States",
+    "funding": "$48.3M",
+    "description": "Cloud ERP software for growing businesses, offering integrated financial, distribution, manufacturing, and CRM capabilities.",
+    "source_url": "https://www.startuphub.ai/startups/acumatica",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Acumen Labs",
+    "category": "Software Development",
+    "location": "San Francisco, United States",
+    "funding": "$7.0M",
+    "description": "Empowering software engineering leaders with real-time data and actionable insights for team success.",
+    "source_url": "https://www.startuphub.ai/startups/acumen-labs",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "AcumenAI",
+    "category": "Enterprise",
+    "location": "Tel Aviv, Israel",
+    "funding": null,
+    "description": "Detects psychological profiles in AI interactions to prevent misuse and ensure business alignment.",
+    "source_url": "https://www.startuphub.ai/startups/acumenai",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Acumino",
+    "category": "Robotics",
+    "location": "Athens, Greece",
+    "funding": "$11.7M",
+    "description": "Builds hardware-agnostic physical AI for dexterous tasks in industrial automation.",
+    "source_url": "https://www.startuphub.ai/startups/acumino",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Acurast",
+    "category": "Web3",
+    "location": "Zug, Switzerland",
+    "funding": "$16.4M",
+    "description": "Decentralized and privacy-preserving advertising network for web3.",
+    "source_url": "https://www.startuphub.ai/startups/acurast",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Acurex Biosciences",
+    "category": "Biotechnology",
+    "location": "San Carlos, USA",
+    "funding": "$1.0M",
+    "description": "Biotechnology company developing new medicines for Parkinson's disease and other neurological disorders.",
+    "source_url": "https://www.startuphub.ai/startups/acurex-biosciences",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Acuvel",
+    "category": "Customer Service Automation",
+    "location": null,
+    "funding": null,
+    "description": null,
+    "source_url": "https://www.startuphub.ai/startups/acuvel",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Ad Terra",
+    "category": "Energy",
+    "location": "Geneva, France",
+    "funding": "$63.0M",
+    "description": "Investment and advisory firm specializing in subsurface natural resource projects across Europe.",
+    "source_url": "https://www.startuphub.ai/startups/ad-terra",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Ada",
+    "category": "AI Chatbots",
+    "location": "Toronto, Canada",
+    "funding": "$190.5M",
+    "description": "AI-powered customer service automation platform for enterprises.",
+    "source_url": "https://www.startuphub.ai/startups/ada",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Ada Health",
+    "category": "Toronto, Canada",
+    "location": "$199.4M",
+    "funding": null,
+    "description": null,
+    "source_url": "https://www.startuphub.ai/startups/ada-health",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Ada Ventures",
+    "category": "Venture Capital",
+    "location": "London, United Kingdom",
+    "funding": "$63.0M",
+    "description": "Venture capital firm investing in early-stage AI-native startups.",
+    "source_url": "https://www.startuphub.ai/startups/ada-ventures",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "AdaGudang",
+    "category": "LogisticsTech",
+    "location": "Jakarta, Indonesia",
+    "funding": "$135.9M",
+    "description": "Indonesia's all-in-one business partner for brand market entry, launch, and nationwide scaling.",
+    "source_url": "https://www.startuphub.ai/startups/adagudang",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Adam",
+    "category": "AI Copilot",
+    "location": "$508.4M",
+    "funding": null,
+    "description": "Adam is an AI-powered CAD co-pilot that generates 3D models from text descriptions in seconds.",
+    "source_url": "https://www.startuphub.ai/startups/adam",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Adam AI Continuum",
+    "category": "AI Governance",
+    "location": "תל אביב - יפו, Israel",
+    "funding": null,
+    "description": "Transform governance from routine process to intelligent progress. Connect insight, accountability, and execution across web and iOS.",
+    "source_url": "https://www.startuphub.ai/startups/adam-ai-continuum",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "ADAM Cogtec",
+    "category": "Automotive",
+    "location": "Tel Aviv, Israel",
+    "funding": "$2.0M",
+    "description": "Monitors and enhances human cognitive capabilities, focusing on driver state detection.",
+    "source_url": "https://www.startuphub.ai/startups/adam-cogtec",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "ADAMANTIUM TECHNOLOGIES",
+    "category": "Data Management",
+    "location": "San Francisco, United States",
+    "funding": "$1.0M",
+    "description": null,
+    "source_url": "https://www.startuphub.ai/startups/adamantium-technologies-ltd",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Adani Group",
+    "category": "Data Centers",
+    "location": "Ahmedabad, India",
+    "funding": "$100.0B",
+    "description": "Adani Group is investing $100 billion over the next decade to build AI data centers across India.",
+    "source_url": "https://www.startuphub.ai/startups/adani-group",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "AdaniConneX",
+    "category": "Data Center",
+    "location": "Ahmedabad, India",
+    "funding": "$1.7B",
+    "description": "AdaniConneX is a joint venture building hyperscale and edge data centers across India.",
+    "source_url": "https://www.startuphub.ai/startups/adaniconnex",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Adaptam Therapeutics",
+    "category": "Biotech",
+    "location": "Cambridge, United States",
+    "funding": "$4.7M",
+    "description": "Developing novel therapeutics for rare genetic diseases with a focus on protein degradation.",
+    "source_url": "https://www.startuphub.ai/startups/adaptam-therapeutics",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Adaptimmune Therapeutics",
+    "category": "Biotechnology",
+    "location": "Abingdon, United Kingdom",
+    "funding": "$107.5M",
+    "description": "Biopharmaceutical company developing T-cell therapies for solid tumor cancers.",
+    "source_url": "https://www.startuphub.ai/startups/adaptimmune-therapeutics",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Adaption Labs",
+    "category": "Adaptive AI",
+    "location": "San Francisco, United States",
+    "funding": null,
+    "description": "AI models that learn adaptively and use less computing power through gradient-free learning.",
+    "source_url": "https://www.startuphub.ai/startups/adaption-labs",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Adaptive AI",
+    "category": "Conversational AI",
+    "location": "San Francisco, United States",
+    "funding": "$6.5M",
+    "description": "AI-driven platform for optimizing customer interactions and business processes.",
+    "source_url": "https://www.startuphub.ai/startups/adaptive-ai",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Adaptive Biotechnologies",
+    "category": "Biotech",
+    "location": "Seattle, United States",
+    "funding": "$300.0M",
+    "description": "Leveraging the adaptive immune system to diagnose and treat disease.",
+    "source_url": "https://www.startuphub.ai/startups/adaptive-biotechnologies",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Adaptive Shield",
+    "category": "Cybersecurity",
+    "location": "Tel Aviv, Israel",
+    "funding": "$10.0M",
+    "description": "SaaS security platform for threat prevention, detection, and response across the entire SaaS stack.",
+    "source_url": "https://www.startuphub.ai/startups/adaptive-shield",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Adaptive6",
+    "category": "Cloud Cost Governance",
+    "location": "San Francisco, United States",
+    "funding": null,
+    "description": "Cloud cost governance platform that governs both cloud and code to prevent waste.",
+    "source_url": "https://www.startuphub.ai/startups/adaptive6",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Adaptronics",
+    "category": "Advanced Manufacturing and Materials",
+    "location": "Berlin, Germany",
+    "funding": "$35.5M",
+    "description": "Develops adaptive materials and structures for aerospace, automotive, and energy sectors.",
+    "source_url": "https://www.startuphub.ai/startups/adaptronics",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Adaptyv Biosystems",
+    "category": "Biotechnology",
+    "location": "Lausanne, Switzerland",
+    "funding": "$40.0M",
+    "description": "Automated wet lab for AI-driven protein design, enabling rapid synthesis, expression, and testing of thousands of protein designs.",
+    "source_url": "https://www.startuphub.ai/startups/adaptyv-bio",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Adarga",
+    "category": "Defense Tech",
+    "location": "London, United Kingdom",
+    "funding": "$40.0M",
+    "description": "Adarga provides an AI-powered intelligence platform for defense and national security.",
+    "source_url": "https://www.startuphub.ai/startups/adarga",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Adas AI Trak",
+    "category": "Automotive AI",
+    "location": "New York, United States",
+    "funding": "$2.7M",
+    "description": "AI-powered automotive repair software for ADAS calibration management in collision repair shops.",
+    "source_url": "https://www.startuphub.ai/startups/adas-ai-trak",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Adasky",
+    "category": "Automotive",
+    "location": "Karmiel, Israel",
+    "funding": "$65.0M",
+    "description": "Develops and manufactures intelligent autograde LWIR thermal imaging cameras for ADAS and AV.",
+    "source_url": "https://www.startuphub.ai/startups/adasky",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Adbreezy",
+    "category": "AdTech",
+    "location": null,
+    "funding": null,
+    "description": "Turn any product link into scroll-stopping ad creatives in minutes.",
+    "source_url": "https://www.startuphub.ai/startups/adbreezy",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Adcendo",
+    "category": "Biotechnology",
+    "location": "Copenhagen, Denmark",
+    "funding": "$272.0M",
+    "description": "Developing first-and best-in-class antibody-drug conjugates (ADCs) for cancers with high unmet medical need.",
+    "source_url": "https://www.startuphub.ai/startups/adcendo",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "AdCreative",
+    "category": "Artificial Intelligence",
+    "location": "Tel Aviv, Israel",
+    "funding": null,
+    "description": "AI-powered platform for generating high-converting ad creatives for digital advertising.",
+    "source_url": "https://www.startuphub.ai/startups/adcreative",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Adda71",
+    "category": "Online Casino",
+    "location": null,
+    "funding": null,
+    "description": "Bangladesh's most trusted online casino and cricket betting platform with bKash and Nagad deposits and a 100% welcome bonus.",
+    "source_url": "https://www.startuphub.ai/startups/adda71",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Added",
+    "category": "Advertising",
+    "location": "San Francisco, United States",
+    "funding": "$100K",
+    "description": null,
+    "source_url": "https://www.startuphub.ai/startups/opery",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Addepar",
+    "category": "Fintech",
+    "location": "New York City, United States",
+    "funding": "$412.1M",
+    "description": "A global technology and data platform empowering investment professionals with insights and tools.",
+    "source_url": "https://www.startuphub.ai/startups/addepar",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Addi",
+    "category": "Fintech",
+    "location": "Bogotá, Colombia",
+    "funding": null,
+    "description": "Buy now, pay later platform for Latin America, offering credit to consumers and businesses.",
+    "source_url": "https://www.startuphub.ai/startups/addi",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Addionics",
+    "category": "Battery",
+    "location": "Tel Aviv, Israel",
+    "funding": "$73.0M",
+    "description": "Develops advanced rechargeable batteries using a novel 3D metal fabrication method for enhanced performance.",
+    "source_url": "https://www.startuphub.ai/startups/addionics",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Addressable",
+    "category": "Web3",
+    "location": "San Francisco, United States",
+    "funding": "$13.5M",
+    "description": "Web3 growth suite for targeted user acquisition on social and web channels.",
+    "source_url": "https://www.startuphub.ai/startups/addressable",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Addverb",
+    "category": "Robotics",
+    "location": "Noida, India",
+    "funding": "$252.0M",
+    "description": "Global robotics and automation company providing solutions for warehouses and factories.",
+    "source_url": "https://www.startuphub.ai/startups/addverb",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Adenia Partners",
+    "category": "Private Equity",
+    "location": "Port Louis, Mauritius",
+    "funding": "$180.0M",
+    "description": "Africa-focused private equity firm",
+    "source_url": "https://www.startuphub.ai/startups/adenia-partners",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Adept AI",
+    "category": "Agentic AI",
+    "location": "San Francisco, United States",
+    "funding": "$1.2B",
+    "description": "AI company building agents that automate software workflows and digital assistants.",
+    "source_url": "https://www.startuphub.ai/startups/adept-ai",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Adeptus Advisors",
+    "category": "London, England",
+    "location": null,
+    "funding": null,
+    "description": "Adeptus Advisors Group, LLC is a solutions-based certified public accounting, advisory, and business management firm with offices across the US.",
+    "source_url": "https://www.startuphub.ai/startups/adeptus-advisors",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Aderian Group",
+    "category": "Managed Services",
+    "location": "Stockholm, Sweden",
+    "funding": null,
+    "description": "Nordic managed IT services provider for SMEs.",
+    "source_url": "https://www.startuphub.ai/startups/aderian-group",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Adeus",
+    "category": "LegalTech",
+    "location": "London, United Kingdom",
+    "funding": "$63.0M",
+    "description": "Legaltech company focused on digital wills and estate planning.",
+    "source_url": "https://www.startuphub.ai/startups/adeus",
+    "source": "StartupHub.ai"
+  },
+  {
+    "name": "Adfin",
+    "category": "Fintech",
+    "location": "London, United Kingdom",
+    "funding": "$22.9M",
+    "description": "AI-powered money movement and cashflow management platform for businesses.",
+    "source_url": "https://www.startuphub.ai/startups/adfin",
+    "source": "StartupHub.ai"
+  }
+]
