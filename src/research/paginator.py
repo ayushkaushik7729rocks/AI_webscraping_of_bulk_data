@@ -1,5 +1,7 @@
 import asyncio
 
+from src.research.dedup import ResearchPaperDeduplicator
+
 
 class ArxivPaginator:
 
@@ -16,25 +18,20 @@ class ArxivPaginator:
     async def fetch_all(
         self,
         query,
-        max_papers
+        max_papers,
+        start=0
     ):
 
         papers = []
-        start = 0
 
-        while len(papers) < max_papers:
-
-            remaining = max_papers - len(papers)
-
-            current_page_size = min(
-                self.page_size,
-                remaining
-            )
+        while len(
+            ResearchPaperDeduplicator.deduplicate(papers)
+        ) < max_papers:
 
             page = await self.client.search(
                 query=query,
                 start=start,
-                max_results=current_page_size
+                max_results=self.page_size
             )
 
             if not page:
@@ -42,14 +39,65 @@ class ArxivPaginator:
 
             papers.extend(page)
 
+            unique_papers = (
+                ResearchPaperDeduplicator.deduplicate(
+                    papers
+                )
+            )
+
             start += len(page)
 
-            if len(page) < current_page_size:
+            if len(page) < self.page_size:
                 break
 
-            if len(papers) < max_papers:
+            if len(unique_papers) < max_papers:
                 await asyncio.sleep(
                     self.delay_seconds
                 )
 
-        return papers[:max_papers]
+        unique_papers = (
+            ResearchPaperDeduplicator.deduplicate(
+                papers
+            )
+        )
+
+        return unique_papers[:max_papers]
+
+    async def fetch_page(
+        self,
+        query,
+        start=0
+    ):
+        """
+        Fetch exactly one ArXiv page.
+
+        Returns:
+            {
+                "papers": [...],
+                "next_start": ...,
+                "has_more": True/False
+            }
+        """
+
+        page = await self.client.search(
+            query=query,
+            start=start,
+            max_results=self.page_size
+        )
+
+        if not page:
+            return {
+                "papers": [],
+                "next_start": start,
+                "has_more": False
+            }
+
+        next_start = start + len(page)
+
+        has_more = len(page) == self.page_size
+
+        return {
+            "papers": page,
+            "next_start": next_start,
+            "has_more": has_more
+        }
